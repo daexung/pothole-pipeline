@@ -1,6 +1,6 @@
 .env
 *.mp4
-data/images
+data/images/
 data/raw/
 data/output/
 logs/
