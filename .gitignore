@@ -1,0 +1,10 @@
+.env
+*.mp4
+data/images
+data/raw/
+data/output/
+logs/
+
+generated images only
+
+outputs/
