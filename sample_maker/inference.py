@@ -1,5 +1,7 @@
 """
-sample_maker용 간단 추론 스크립트
+sample_maker용 간단 추론 
+
+pip install torch, numpy, torchvision, ultralytics, pandas
 
 사용법:
     python inference_simple.py --input ./test_images
