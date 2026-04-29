@@ -118,3 +118,10 @@ AIHub
 ## Disclaimer
 
 본 프로젝트는 포트폴리오 및 학습 목적의 시뮬레이션 프로젝트이며, 공개 데이터셋을 활용해 재구성되었습니다.
+
+
+## sample_maker 사용법
+
+pip install torch torchvision ultralytics opencv-python pandas pillow
+
+pip install opencv-python numpy

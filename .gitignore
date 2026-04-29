@@ -1,5 +1,7 @@
 .env
 *.mp4
+*.png
+*.jpg
 data/images/
 data/raw/
 data/output/

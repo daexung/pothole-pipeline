@@ -1,0 +1,545 @@
+﻿번호,파일명,단순분류,정상확률,포트홀확률,신뢰도,CP예측집합,CP클래스,CP클래스번호,이미지경로
+1,V2F_HY_0015_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_22096.png,정상,0.6174,0.3826,0.6174,{0},확실한 정상,0,test_images\V2F_HY_0015_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_22096.png
+2,V2F_HY_0021_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_87840.png,정상,0.6624,0.3376,0.6624,{0},확실한 정상,0,test_images\V2F_HY_0021_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_87840.png
+3,V2F_HY_0040_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_05796.png,정상,0.6591,0.3409,0.6591,{0},확실한 정상,0,test_images\V2F_HY_0040_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_05796.png
+4,V2F_HY_0053_20201104_083403_N_CH2_Seoul_Sun_Highway_Sunrise_95317.png,포트홀,0.4300,0.5700,0.5700,{1},확실한 포트홀,3,test_images\V2F_HY_0053_20201104_083403_N_CH2_Seoul_Sun_Highway_Sunrise_95317.png
+5,V2F_HY_0057_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_95399.png,포트홀,0.4914,0.5086,0.5086,set(),애매 (포트홀 쪽),2,test_images\V2F_HY_0057_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_95399.png
+6,V2F_HY_0059_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_63758.png,정상,0.6340,0.3660,0.6340,{0},확실한 정상,0,test_images\V2F_HY_0059_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_63758.png
+7,V2F_HY_0065_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_56115.png,정상,0.6406,0.3594,0.6406,{0},확실한 정상,0,test_images\V2F_HY_0065_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_56115.png
+8,V2F_HY_0077_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_74201.png,정상,0.5664,0.4336,0.5664,set(),애매 (정상 쪽),1,test_images\V2F_HY_0077_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_74201.png
+9,V2F_HY_0088_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_48120.png,정상,0.6329,0.3671,0.6329,{0},확실한 정상,0,test_images\V2F_HY_0088_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_48120.png
+10,V2F_HY_0090_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_66177.png,정상,0.6319,0.3681,0.6319,{0},확실한 정상,0,test_images\V2F_HY_0090_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_66177.png
+11,V2F_HY_0103_20201104_083503_N_CH0_Seoul_Sun_Highway_Sunrise_85644.png,정상,0.5145,0.4855,0.5145,set(),애매 (정상 쪽),1,test_images\V2F_HY_0103_20201104_083503_N_CH0_Seoul_Sun_Highway_Sunrise_85644.png
+12,V2F_HY_0116_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_70730.png,정상,0.5781,0.4219,0.5781,set(),애매 (정상 쪽),1,test_images\V2F_HY_0116_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_70730.png
+13,V2F_HY_0117_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_12874.png,포트홀,0.3349,0.6651,0.6651,{1},확실한 포트홀,3,test_images\V2F_HY_0117_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_12874.png
+14,V2F_HY_0123_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_77554.png,정상,0.5628,0.4372,0.5628,set(),애매 (정상 쪽),1,test_images\V2F_HY_0123_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_77554.png
+15,V2F_HY_0125_20201103_165948_E_CH1_Seoul_Sun_Highway_Sunset_35056.png,정상,0.5074,0.4926,0.5074,set(),애매 (정상 쪽),1,test_images\V2F_HY_0125_20201103_165948_E_CH1_Seoul_Sun_Highway_Sunset_35056.png
+16,V2F_HY_0135_20201104_083003_E_CH0_Seoul_Sun_Highway_Sunrise_01480.png,포트홀,0.2811,0.7189,0.7189,{1},확실한 포트홀,3,test_images\V2F_HY_0135_20201104_083003_E_CH0_Seoul_Sun_Highway_Sunrise_01480.png
+17,V2F_HY_0145_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_02753.png,정상,0.6065,0.3935,0.6065,{0},확실한 정상,0,test_images\V2F_HY_0145_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_02753.png
+18,V2F_HY_0152_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_98078.png,정상,0.6189,0.3811,0.6189,{0},확실한 정상,0,test_images\V2F_HY_0152_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_98078.png
+19,V2F_HY_0160_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_91695.png,정상,0.5880,0.4120,0.5880,set(),애매 (정상 쪽),1,test_images\V2F_HY_0160_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_91695.png
+20,V2F_HY_0165_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_94164.png,정상,0.5849,0.4151,0.5849,set(),애매 (정상 쪽),1,test_images\V2F_HY_0165_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_94164.png
+21,V2F_HY_0168_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_94697.png,정상,0.5906,0.4094,0.5906,set(),애매 (정상 쪽),1,test_images\V2F_HY_0168_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_94697.png
+22,V2F_HY_0171_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_95312.png,포트홀,0.4339,0.5661,0.5661,{1},확실한 포트홀,3,test_images\V2F_HY_0171_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_95312.png
+23,V2F_HY_0216_20201104_083403_N_CH2_Seoul_Sun_Highway_Sunrise_85808.png,포트홀,0.2734,0.7266,0.7266,{1},확실한 포트홀,3,test_images\V2F_HY_0216_20201104_083403_N_CH2_Seoul_Sun_Highway_Sunrise_85808.png
+24,V2F_HY_0225_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_47522.png,포트홀,0.4652,0.5348,0.5348,{1},확실한 포트홀,3,test_images\V2F_HY_0225_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_47522.png
+25,V2F_HY_0228_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_44982.png,정상,0.6475,0.3525,0.6475,{0},확실한 정상,0,test_images\V2F_HY_0228_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_44982.png
+26,V2F_HY_0234_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_06652.png,정상,0.6399,0.3601,0.6399,{0},확실한 정상,0,test_images\V2F_HY_0234_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_06652.png
+27,V2F_HY_0248_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_28326.png,정상,0.5639,0.4361,0.5639,set(),애매 (정상 쪽),1,test_images\V2F_HY_0248_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_28326.png
+28,V2F_HY_0257_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_79139.png,정상,0.6826,0.3174,0.6826,{0},확실한 정상,0,test_images\V2F_HY_0257_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_79139.png
+29,V2F_HY_0262_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_61376.png,정상,0.6626,0.3374,0.6626,{0},확실한 정상,0,test_images\V2F_HY_0262_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_61376.png
+30,V2F_HY_0272_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_56791.png,포트홀,0.4304,0.5696,0.5696,{1},확실한 포트홀,3,test_images\V2F_HY_0272_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_56791.png
+31,V2F_HY_0290_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_87558.png,포트홀,0.2728,0.7272,0.7272,{1},확실한 포트홀,3,test_images\V2F_HY_0290_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_87558.png
+32,V2F_HY_0293_20201104_083403_N_CH2_Seoul_Sun_Highway_Sunrise_23305.png,정상,0.5833,0.4167,0.5833,set(),애매 (정상 쪽),1,test_images\V2F_HY_0293_20201104_083403_N_CH2_Seoul_Sun_Highway_Sunrise_23305.png
+33,V2F_HY_0301_20201103_170848_E_CH1_Seoul_Sun_Highway_Sunset_42423.png,정상,0.6610,0.3390,0.6610,{0},확실한 정상,0,test_images\V2F_HY_0301_20201103_170848_E_CH1_Seoul_Sun_Highway_Sunset_42423.png
+34,V2F_HY_0303_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_97430.png,정상,0.6641,0.3359,0.6641,{0},확실한 정상,0,test_images\V2F_HY_0303_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_97430.png
+35,V2F_HY_0304_20201104_083503_N_CH0_Seoul_Sun_Highway_Sunrise_29520.png,정상,0.6165,0.3835,0.6165,{0},확실한 정상,0,test_images\V2F_HY_0304_20201104_083503_N_CH0_Seoul_Sun_Highway_Sunrise_29520.png
+36,V2F_HY_0335_20201103_165848_E_CH0_Seoul_Sun_Highway_Sunset_90245.png,포트홀,0.2697,0.7303,0.7303,{1},확실한 포트홀,3,test_images\V2F_HY_0335_20201103_165848_E_CH0_Seoul_Sun_Highway_Sunset_90245.png
+37,V2F_HY_0338_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_74970.png,정상,0.6404,0.3596,0.6404,{0},확실한 정상,0,test_images\V2F_HY_0338_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_74970.png
+38,V2F_HY_0340_20201103_190907_E_CH0_Seoul_Sun_Highway_Night_72132.png,정상,0.6222,0.3778,0.6222,{0},확실한 정상,0,test_images\V2F_HY_0340_20201103_190907_E_CH0_Seoul_Sun_Highway_Night_72132.png
+39,V2F_HY_0346_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_65489.png,정상,0.5266,0.4734,0.5266,set(),애매 (정상 쪽),1,test_images\V2F_HY_0346_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_65489.png
+40,V2F_HY_0353_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_49050.png,정상,0.5269,0.4731,0.5269,set(),애매 (정상 쪽),1,test_images\V2F_HY_0353_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_49050.png
+41,V2F_HY_0358_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_72559.png,정상,0.6485,0.3515,0.6485,{0},확실한 정상,0,test_images\V2F_HY_0358_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_72559.png
+42,V2F_HY_0358_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_41710.png,포트홀,0.3239,0.6761,0.6761,{1},확실한 포트홀,3,test_images\V2F_HY_0358_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_41710.png
+43,V2F_HY_0361_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_71761.png,정상,0.6481,0.3519,0.6481,{0},확실한 정상,0,test_images\V2F_HY_0361_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_71761.png
+44,V2F_HY_0366_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_87714.png,포트홀,0.4276,0.5724,0.5724,{1},확실한 포트홀,3,test_images\V2F_HY_0366_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_87714.png
+45,V2F_HY_0383_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_06247.png,정상,0.5905,0.4095,0.5905,set(),애매 (정상 쪽),1,test_images\V2F_HY_0383_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_06247.png
+46,V2F_HY_0396_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_33828.png,정상,0.6139,0.3861,0.6139,{0},확실한 정상,0,test_images\V2F_HY_0396_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_33828.png
+47,V2F_HY_0396_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_05201.png,정상,0.6659,0.3341,0.6659,{0},확실한 정상,0,test_images\V2F_HY_0396_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_05201.png
+48,V2F_HY_0409_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_24215.png,정상,0.6686,0.3314,0.6686,{0},확실한 정상,0,test_images\V2F_HY_0409_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_24215.png
+49,V2F_HY_0429_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_18064.png,정상,0.5345,0.4655,0.5345,set(),애매 (정상 쪽),1,test_images\V2F_HY_0429_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_18064.png
+50,V2F_HY_0448_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_29941.png,정상,0.6229,0.3771,0.6229,{0},확실한 정상,0,test_images\V2F_HY_0448_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_29941.png
+51,V2F_HY_0449_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_17773.png,정상,0.6617,0.3383,0.6617,{0},확실한 정상,0,test_images\V2F_HY_0449_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_17773.png
+52,V2F_HY_0458_20201104_083403_N_CH2_Seoul_Sun_Highway_Sunrise_52300.png,포트홀,0.3435,0.6565,0.6565,{1},확실한 포트홀,3,test_images\V2F_HY_0458_20201104_083403_N_CH2_Seoul_Sun_Highway_Sunrise_52300.png
+53,V2F_HY_0472_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_83139.png,정상,0.6449,0.3551,0.6449,{0},확실한 정상,0,test_images\V2F_HY_0472_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_83139.png
+54,V2F_HY_0479_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_06446.png,정상,0.5225,0.4775,0.5225,set(),애매 (정상 쪽),1,test_images\V2F_HY_0479_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_06446.png
+55,V2F_HY_0480_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_56150.png,정상,0.6481,0.3519,0.6481,{0},확실한 정상,0,test_images\V2F_HY_0480_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_56150.png
+56,V2F_HY_0486_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_29924.png,정상,0.6156,0.3844,0.6156,{0},확실한 정상,0,test_images\V2F_HY_0486_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_29924.png
+57,V2F_HY_0495_20201103_170748_E_CH0_Seoul_Sun_Highway_Sunset_35529.png,정상,0.5860,0.4140,0.5860,set(),애매 (정상 쪽),1,test_images\V2F_HY_0495_20201103_170748_E_CH0_Seoul_Sun_Highway_Sunset_35529.png
+58,V2F_HY_0551_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_84727.png,정상,0.6667,0.3333,0.6667,{0},확실한 정상,0,test_images\V2F_HY_0551_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_84727.png
+59,V2F_HY_0568_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_43149.png,포트홀,0.2818,0.7182,0.7182,{1},확실한 포트홀,3,test_images\V2F_HY_0568_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_43149.png
+60,V2F_HY_0574_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_49390.png,정상,0.6231,0.3769,0.6231,{0},확실한 정상,0,test_images\V2F_HY_0574_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_49390.png
+61,V2F_HY_0576_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_26135.png,포트홀,0.4931,0.5069,0.5069,set(),애매 (포트홀 쪽),2,test_images\V2F_HY_0576_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_26135.png
+62,V2F_HY_0591_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_60136.png,포트홀,0.3375,0.6625,0.6625,{1},확실한 포트홀,3,test_images\V2F_HY_0591_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_60136.png
+63,V2F_HY_0598_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_14108.png,정상,0.6462,0.3538,0.6462,{0},확실한 정상,0,test_images\V2F_HY_0598_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_14108.png
+64,V2F_HY_0603_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_07820.png,정상,0.6382,0.3618,0.6382,{0},확실한 정상,0,test_images\V2F_HY_0603_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_07820.png
+65,V2F_HY_0607_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_49620.png,정상,0.6336,0.3664,0.6336,{0},확실한 정상,0,test_images\V2F_HY_0607_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_49620.png
+66,V2F_HY_0610_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_22191.png,정상,0.6040,0.3960,0.6040,{0},확실한 정상,0,test_images\V2F_HY_0610_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_22191.png
+67,V2F_HY_0618_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_79964.png,정상,0.5913,0.4087,0.5913,set(),애매 (정상 쪽),1,test_images\V2F_HY_0618_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_79964.png
+68,V2F_HY_0637_20201104_083503_N_CH2_Seoul_Sun_Highway_Sunrise_63997.png,포트홀,0.3480,0.6520,0.6520,{1},확실한 포트홀,3,test_images\V2F_HY_0637_20201104_083503_N_CH2_Seoul_Sun_Highway_Sunrise_63997.png
+69,V2F_HY_0641_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_73909.png,정상,0.6726,0.3274,0.6726,{0},확실한 정상,0,test_images\V2F_HY_0641_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_73909.png
+70,V2F_HY_0647_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_48247.png,포트홀,0.3885,0.6115,0.6115,{1},확실한 포트홀,3,test_images\V2F_HY_0647_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_48247.png
+71,V2F_HY_0651_20201104_082803_E_CH0_Seoul_Sun_Highway_Sunrise_33910.png,정상,0.6624,0.3376,0.6624,{0},확실한 정상,0,test_images\V2F_HY_0651_20201104_082803_E_CH0_Seoul_Sun_Highway_Sunrise_33910.png
+72,V2F_HY_0662_20201104_083103_E_CH0_Seoul_Sun_Highway_Sunrise_10384.png,포트홀,0.4825,0.5175,0.5175,set(),애매 (포트홀 쪽),2,test_images\V2F_HY_0662_20201104_083103_E_CH0_Seoul_Sun_Highway_Sunrise_10384.png
+73,V2F_HY_0685_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_84947.png,정상,0.6301,0.3699,0.6301,{0},확실한 정상,0,test_images\V2F_HY_0685_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_84947.png
+74,V2F_HY_0688_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_56451.png,정상,0.6198,0.3802,0.6198,{0},확실한 정상,0,test_images\V2F_HY_0688_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_56451.png
+75,V2F_HY_0694_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_10782.png,정상,0.6766,0.3234,0.6766,{0},확실한 정상,0,test_images\V2F_HY_0694_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_10782.png
+76,V2F_HY_0696_20201103_170348_E_CH0_Seoul_Sun_Highway_Sunset_14312.png,포트홀,0.4874,0.5126,0.5126,set(),애매 (포트홀 쪽),2,test_images\V2F_HY_0696_20201103_170348_E_CH0_Seoul_Sun_Highway_Sunset_14312.png
+77,V2F_HY_0697_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_58495.png,정상,0.6343,0.3657,0.6343,{0},확실한 정상,0,test_images\V2F_HY_0697_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_58495.png
+78,V2F_HY_0702_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_62165.png,정상,0.6356,0.3644,0.6356,{0},확실한 정상,0,test_images\V2F_HY_0702_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_62165.png
+79,V2F_HY_0705_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_45291.png,정상,0.6028,0.3972,0.6028,{0},확실한 정상,0,test_images\V2F_HY_0705_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_45291.png
+80,V2F_HY_0709_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_64400.png,정상,0.5191,0.4809,0.5191,set(),애매 (정상 쪽),1,test_images\V2F_HY_0709_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_64400.png
+81,V2F_HY_0711_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_99093.png,정상,0.6244,0.3756,0.6244,{0},확실한 정상,0,test_images\V2F_HY_0711_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_99093.png
+82,V2F_HY_0713_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_13698.png,정상,0.6818,0.3182,0.6818,{0},확실한 정상,0,test_images\V2F_HY_0713_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_13698.png
+83,V2F_HY_0733_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_64044.png,정상,0.5476,0.4524,0.5476,set(),애매 (정상 쪽),1,test_images\V2F_HY_0733_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_64044.png
+84,V2F_HY_0754_20201104_083103_N_CH2_Seoul_Sun_Highway_Sunrise_98211.png,포트홀,0.2759,0.7241,0.7241,{1},확실한 포트홀,3,test_images\V2F_HY_0754_20201104_083103_N_CH2_Seoul_Sun_Highway_Sunrise_98211.png
+85,V2F_HY_0768_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_51160.png,포트홀,0.4062,0.5938,0.5938,{1},확실한 포트홀,3,test_images\V2F_HY_0768_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_51160.png
+86,V2F_HY_0785_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_60796.png,정상,0.6982,0.3018,0.6982,{0},확실한 정상,0,test_images\V2F_HY_0785_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_60796.png
+87,V2F_HY_0787_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_62057.png,정상,0.6517,0.3483,0.6517,{0},확실한 정상,0,test_images\V2F_HY_0787_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_62057.png
+88,V2F_HY_0796_20201104_083503_E_CH2_Seoul_Sun_Highway_Sunrise_90152.png,정상,0.5067,0.4933,0.5067,set(),애매 (정상 쪽),1,test_images\V2F_HY_0796_20201104_083503_E_CH2_Seoul_Sun_Highway_Sunrise_90152.png
+89,V2F_HY_0810_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_98177.png,정상,0.6156,0.3844,0.6156,{0},확실한 정상,0,test_images\V2F_HY_0810_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_98177.png
+90,V2F_HY_0811_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_04199.png,포트홀,0.3012,0.6988,0.6988,{1},확실한 포트홀,3,test_images\V2F_HY_0811_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_04199.png
+91,V2F_HY_0812_20201104_083103_E_CH0_Seoul_Sun_Highway_Sunrise_24968.png,정상,0.6247,0.3753,0.6247,{0},확실한 정상,0,test_images\V2F_HY_0812_20201104_083103_E_CH0_Seoul_Sun_Highway_Sunrise_24968.png
+92,V2F_HY_0813_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_86106.png,정상,0.6416,0.3584,0.6416,{0},확실한 정상,0,test_images\V2F_HY_0813_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_86106.png
+93,V2F_HY_0817_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_72315.png,정상,0.6677,0.3323,0.6677,{0},확실한 정상,0,test_images\V2F_HY_0817_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_72315.png
+94,V2F_HY_0819_20201103_165848_E_CH1_Seoul_Sun_Highway_Sunset_15571.png,정상,0.6090,0.3910,0.6090,{0},확실한 정상,0,test_images\V2F_HY_0819_20201103_165848_E_CH1_Seoul_Sun_Highway_Sunset_15571.png
+95,V2F_HY_0828_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_21020.png,정상,0.6707,0.3293,0.6707,{0},확실한 정상,0,test_images\V2F_HY_0828_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_21020.png
+96,V2F_HY_0850_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_44319.png,정상,0.6168,0.3832,0.6168,{0},확실한 정상,0,test_images\V2F_HY_0850_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_44319.png
+97,V2F_HY_0863_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_36931.png,정상,0.6578,0.3422,0.6578,{0},확실한 정상,0,test_images\V2F_HY_0863_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_36931.png
+98,V2F_HY_0866_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_30152.png,정상,0.5252,0.4748,0.5252,set(),애매 (정상 쪽),1,test_images\V2F_HY_0866_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_30152.png
+99,V2F_HY_0873_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_95121.png,포트홀,0.4393,0.5607,0.5607,{1},확실한 포트홀,3,test_images\V2F_HY_0873_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_95121.png
+100,V2F_HY_0877_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_14235.png,정상,0.6159,0.3841,0.6159,{0},확실한 정상,0,test_images\V2F_HY_0877_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_14235.png
+101,V2F_HY_0901_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_07485.png,포트홀,0.4765,0.5235,0.5235,set(),애매 (포트홀 쪽),2,test_images\V2F_HY_0901_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_07485.png
+102,V2F_HY_0913_20201104_083503_N_CH0_Seoul_Sun_Highway_Sunrise_05413.png,정상,0.5511,0.4489,0.5511,set(),애매 (정상 쪽),1,test_images\V2F_HY_0913_20201104_083503_N_CH0_Seoul_Sun_Highway_Sunrise_05413.png
+103,V2F_HY_0958_20201103_165948_E_CH0_Seoul_Sun_Highway_Sunset_78359.png,포트홀,0.4818,0.5182,0.5182,set(),애매 (포트홀 쪽),2,test_images\V2F_HY_0958_20201103_165948_E_CH0_Seoul_Sun_Highway_Sunset_78359.png
+104,V2F_HY_0964_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_54955.png,정상,0.6758,0.3242,0.6758,{0},확실한 정상,0,test_images\V2F_HY_0964_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_54955.png
+105,V2F_HY_0971_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_86042.png,정상,0.6318,0.3682,0.6318,{0},확실한 정상,0,test_images\V2F_HY_0971_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_86042.png
+106,V2F_HY_0981_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_80566.png,정상,0.6431,0.3569,0.6431,{0},확실한 정상,0,test_images\V2F_HY_0981_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_80566.png
+107,V2F_HY_0987_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_03037.png,정상,0.6219,0.3781,0.6219,{0},확실한 정상,0,test_images\V2F_HY_0987_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_03037.png
+108,V2F_HY_0990_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_26147.png,정상,0.5874,0.4126,0.5874,set(),애매 (정상 쪽),1,test_images\V2F_HY_0990_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_26147.png
+109,V2F_HY_0991_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_90760.png,정상,0.5355,0.4645,0.5355,set(),애매 (정상 쪽),1,test_images\V2F_HY_0991_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_90760.png
+110,V2F_HY_0993_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_33583.png,포트홀,0.4642,0.5358,0.5358,{1},확실한 포트홀,3,test_images\V2F_HY_0993_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_33583.png
+111,V2F_HY_1009_20201103_165748_E_CH1_Seoul_Sun_Highway_Sunset_58800.png,정상,0.5696,0.4304,0.5696,set(),애매 (정상 쪽),1,test_images\V2F_HY_1009_20201103_165748_E_CH1_Seoul_Sun_Highway_Sunset_58800.png
+112,V2F_HY_1025_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_17751.png,정상,0.6026,0.3974,0.6026,set(),애매 (정상 쪽),1,test_images\V2F_HY_1025_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_17751.png
+113,V2F_HY_1030_20201104_083103_E_CH1_Seoul_Sun_Highway_Sunrise_65808.png,포트홀,0.3011,0.6989,0.6989,{1},확실한 포트홀,3,test_images\V2F_HY_1030_20201104_083103_E_CH1_Seoul_Sun_Highway_Sunrise_65808.png
+114,V2F_HY_1050_20201103_170348_E_CH0_Seoul_Sun_Highway_Sunset_06956.png,포트홀,0.2862,0.7138,0.7138,{1},확실한 포트홀,3,test_images\V2F_HY_1050_20201103_170348_E_CH0_Seoul_Sun_Highway_Sunset_06956.png
+115,V2F_HY_1061_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_92214.png,정상,0.5499,0.4501,0.5499,set(),애매 (정상 쪽),1,test_images\V2F_HY_1061_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_92214.png
+116,V2F_HY_1072_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_02867.png,정상,0.6344,0.3656,0.6344,{0},확실한 정상,0,test_images\V2F_HY_1072_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_02867.png
+117,V2F_HY_1096_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_49579.png,정상,0.6682,0.3318,0.6682,{0},확실한 정상,0,test_images\V2F_HY_1096_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_49579.png
+118,V2F_HY_1099_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_23997.png,포트홀,0.4622,0.5378,0.5378,{1},확실한 포트홀,3,test_images\V2F_HY_1099_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_23997.png
+119,V2F_HY_1100_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_13585.png,정상,0.6798,0.3202,0.6798,{0},확실한 정상,0,test_images\V2F_HY_1100_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_13585.png
+120,V2F_HY_1101_20201103_170348_E_CH0_Seoul_Sun_Highway_Sunset_96196.png,정상,0.5570,0.4430,0.5570,set(),애매 (정상 쪽),1,test_images\V2F_HY_1101_20201103_170348_E_CH0_Seoul_Sun_Highway_Sunset_96196.png
+121,V2F_HY_1126_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_65837.png,정상,0.6395,0.3605,0.6395,{0},확실한 정상,0,test_images\V2F_HY_1126_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_65837.png
+122,V2F_HY_1143_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_55288.png,포트홀,0.3435,0.6565,0.6565,{1},확실한 포트홀,3,test_images\V2F_HY_1143_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_55288.png
+123,V2F_HY_1155_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_84545.png,정상,0.6540,0.3460,0.6540,{0},확실한 정상,0,test_images\V2F_HY_1155_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_84545.png
+124,V2F_HY_1157_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_29039.png,포트홀,0.3782,0.6218,0.6218,{1},확실한 포트홀,3,test_images\V2F_HY_1157_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_29039.png
+125,V2F_HY_1160_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_47228.png,정상,0.6541,0.3459,0.6541,{0},확실한 정상,0,test_images\V2F_HY_1160_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_47228.png
+126,V2F_HY_1162_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_18296.png,정상,0.6246,0.3754,0.6246,{0},확실한 정상,0,test_images\V2F_HY_1162_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_18296.png
+127,V2F_HY_1172_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_46713.png,정상,0.5665,0.4335,0.5665,set(),애매 (정상 쪽),1,test_images\V2F_HY_1172_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_46713.png
+128,V2F_HY_1176_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_09774.png,정상,0.5118,0.4882,0.5118,set(),애매 (정상 쪽),1,test_images\V2F_HY_1176_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_09774.png
+129,V2F_HY_1185_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_03501.png,정상,0.6560,0.3440,0.6560,{0},확실한 정상,0,test_images\V2F_HY_1185_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_03501.png
+130,V2F_HY_1186_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_52648.png,포트홀,0.4249,0.5751,0.5751,{1},확실한 포트홀,3,test_images\V2F_HY_1186_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_52648.png
+131,V2F_HY_1193_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_97448.png,정상,0.5567,0.4433,0.5567,set(),애매 (정상 쪽),1,test_images\V2F_HY_1193_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_97448.png
+132,V2F_HY_1243_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_53456.png,정상,0.6433,0.3567,0.6433,{0},확실한 정상,0,test_images\V2F_HY_1243_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_53456.png
+133,V2F_HY_1247_20201104_082903_N_CH2_Seoul_Sun_Highway_Sunrise_85843.png,포트홀,0.3817,0.6183,0.6183,{1},확실한 포트홀,3,test_images\V2F_HY_1247_20201104_082903_N_CH2_Seoul_Sun_Highway_Sunrise_85843.png
+134,V2F_HY_1269_20201104_083503_N_CH2_Seoul_Sun_Highway_Sunrise_71940.png,포트홀,0.4295,0.5705,0.5705,{1},확실한 포트홀,3,test_images\V2F_HY_1269_20201104_083503_N_CH2_Seoul_Sun_Highway_Sunrise_71940.png
+135,V2F_HY_1274_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_74496.png,정상,0.6374,0.3626,0.6374,{0},확실한 정상,0,test_images\V2F_HY_1274_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_74496.png
+136,V2F_HY_1280_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_63152.png,정상,0.6962,0.3038,0.6962,{0},확실한 정상,0,test_images\V2F_HY_1280_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_63152.png
+137,V2F_HY_1293_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_20630.png,정상,0.6287,0.3713,0.6287,{0},확실한 정상,0,test_images\V2F_HY_1293_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_20630.png
+138,V2F_HY_1297_20201104_083103_N_CH2_Seoul_Sun_Highway_Sunrise_12799.png,정상,0.5620,0.4380,0.5620,set(),애매 (정상 쪽),1,test_images\V2F_HY_1297_20201104_083103_N_CH2_Seoul_Sun_Highway_Sunrise_12799.png
+139,V2F_HY_1307_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_27892.png,정상,0.6601,0.3399,0.6601,{0},확실한 정상,0,test_images\V2F_HY_1307_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_27892.png
+140,V2F_HY_1307_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_32855.png,정상,0.6797,0.3203,0.6797,{0},확실한 정상,0,test_images\V2F_HY_1307_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_32855.png
+141,V2F_HY_1312_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_41538.png,정상,0.6138,0.3862,0.6138,{0},확실한 정상,0,test_images\V2F_HY_1312_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_41538.png
+142,V2F_HY_1314_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_04506.png,포트홀,0.4434,0.5566,0.5566,{1},확실한 포트홀,3,test_images\V2F_HY_1314_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_04506.png
+143,V2F_HY_1317_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_06575.png,정상,0.5343,0.4657,0.5343,set(),애매 (정상 쪽),1,test_images\V2F_HY_1317_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_06575.png
+144,V2F_HY_1322_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_83094.png,정상,0.6381,0.3619,0.6381,{0},확실한 정상,0,test_images\V2F_HY_1322_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_83094.png
+145,V2F_HY_1322_20201104_083103_E_CH1_Seoul_Sun_Highway_Sunrise_37879.png,정상,0.6021,0.3979,0.6021,set(),애매 (정상 쪽),1,test_images\V2F_HY_1322_20201104_083103_E_CH1_Seoul_Sun_Highway_Sunrise_37879.png
+146,V2F_HY_1355_20201104_083103_E_CH0_Seoul_Sun_Highway_Sunrise_46390.png,정상,0.5540,0.4460,0.5540,set(),애매 (정상 쪽),1,test_images\V2F_HY_1355_20201104_083103_E_CH0_Seoul_Sun_Highway_Sunrise_46390.png
+147,V2F_HY_1366_20201104_083403_N_CH2_Seoul_Sun_Highway_Sunrise_50382.png,정상,0.5050,0.4950,0.5050,set(),애매 (정상 쪽),1,test_images\V2F_HY_1366_20201104_083403_N_CH2_Seoul_Sun_Highway_Sunrise_50382.png
+148,V2F_HY_1375_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_42537.png,정상,0.6417,0.3583,0.6417,{0},확실한 정상,0,test_images\V2F_HY_1375_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_42537.png
+149,V2F_HY_1379_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_64830.png,포트홀,0.3087,0.6913,0.6913,{1},확실한 포트홀,3,test_images\V2F_HY_1379_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_64830.png
+150,V2F_HY_1383_20201104_083103_E_CH0_Seoul_Sun_Highway_Sunrise_11731.png,정상,0.5781,0.4219,0.5781,set(),애매 (정상 쪽),1,test_images\V2F_HY_1383_20201104_083103_E_CH0_Seoul_Sun_Highway_Sunrise_11731.png
+151,V2F_HY_1384_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_92607.png,정상,0.6236,0.3764,0.6236,{0},확실한 정상,0,test_images\V2F_HY_1384_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_92607.png
+152,V2F_HY_1396_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_28464.png,정상,0.5961,0.4039,0.5961,set(),애매 (정상 쪽),1,test_images\V2F_HY_1396_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_28464.png
+153,V2F_HY_1403_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_55278.png,포트홀,0.3921,0.6079,0.6079,{1},확실한 포트홀,3,test_images\V2F_HY_1403_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_55278.png
+154,V2F_HY_1418_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_55084.png,정상,0.6555,0.3445,0.6555,{0},확실한 정상,0,test_images\V2F_HY_1418_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_55084.png
+155,V2F_HY_1425_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_39628.png,정상,0.6484,0.3516,0.6484,{0},확실한 정상,0,test_images\V2F_HY_1425_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_39628.png
+156,V2F_HY_1430_20201103_170248_E_CH0_Seoul_Sun_Highway_Sunset_97230.png,포트홀,0.4074,0.5926,0.5926,{1},확실한 포트홀,3,test_images\V2F_HY_1430_20201103_170248_E_CH0_Seoul_Sun_Highway_Sunset_97230.png
+157,V2F_HY_1431_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_75627.png,포트홀,0.3761,0.6239,0.6239,{1},확실한 포트홀,3,test_images\V2F_HY_1431_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_75627.png
+158,V2F_HY_1443_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_76101.png,정상,0.6540,0.3460,0.6540,{0},확실한 정상,0,test_images\V2F_HY_1443_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_76101.png
+159,V2F_HY_1457_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_39971.png,정상,0.6743,0.3257,0.6743,{0},확실한 정상,0,test_images\V2F_HY_1457_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_39971.png
+160,V2F_HY_1467_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_95271.png,포트홀,0.4479,0.5521,0.5521,{1},확실한 포트홀,3,test_images\V2F_HY_1467_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_95271.png
+161,V2F_HY_1477_20201103_165848_E_CH0_Seoul_Sun_Highway_Sunset_00680.png,포트홀,0.2767,0.7233,0.7233,{1},확실한 포트홀,3,test_images\V2F_HY_1477_20201103_165848_E_CH0_Seoul_Sun_Highway_Sunset_00680.png
+162,V2F_HY_1484_20201103_165848_E_CH1_Seoul_Sun_Highway_Sunset_69357.png,정상,0.6747,0.3253,0.6747,{0},확실한 정상,0,test_images\V2F_HY_1484_20201103_165848_E_CH1_Seoul_Sun_Highway_Sunset_69357.png
+163,V2F_HY_1484_20201104_083103_E_CH0_Seoul_Sun_Highway_Sunrise_97346.png,정상,0.7045,0.2955,0.7045,{0},확실한 정상,0,test_images\V2F_HY_1484_20201104_083103_E_CH0_Seoul_Sun_Highway_Sunrise_97346.png
+164,V2F_HY_1510_20201104_083103_E_CH0_Seoul_Sun_Highway_Sunrise_96911.png,포트홀,0.3835,0.6165,0.6165,{1},확실한 포트홀,3,test_images\V2F_HY_1510_20201104_083103_E_CH0_Seoul_Sun_Highway_Sunrise_96911.png
+165,V2F_HY_1526_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_17402.png,정상,0.6313,0.3687,0.6313,{0},확실한 정상,0,test_images\V2F_HY_1526_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_17402.png
+166,V2F_HY_1526_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_73614.png,정상,0.6551,0.3449,0.6551,{0},확실한 정상,0,test_images\V2F_HY_1526_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_73614.png
+167,V2F_HY_1542_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_10852.png,포트홀,0.4187,0.5813,0.5813,{1},확실한 포트홀,3,test_images\V2F_HY_1542_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_10852.png
+168,V2F_HY_1556_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_15241.png,포트홀,0.3475,0.6525,0.6525,{1},확실한 포트홀,3,test_images\V2F_HY_1556_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_15241.png
+169,V2F_HY_1570_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_95658.png,정상,0.6354,0.3646,0.6354,{0},확실한 정상,0,test_images\V2F_HY_1570_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_95658.png
+170,V2F_HY_1578_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_69521.png,정상,0.5654,0.4346,0.5654,set(),애매 (정상 쪽),1,test_images\V2F_HY_1578_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_69521.png
+171,V2F_HY_1587_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_21077.png,정상,0.5497,0.4503,0.5497,set(),애매 (정상 쪽),1,test_images\V2F_HY_1587_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_21077.png
+172,V2F_HY_1602_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_39293.png,정상,0.6242,0.3758,0.6242,{0},확실한 정상,0,test_images\V2F_HY_1602_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_39293.png
+173,V2F_HY_1641_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_51958.png,정상,0.6330,0.3670,0.6330,{0},확실한 정상,0,test_images\V2F_HY_1641_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_51958.png
+174,V2F_HY_1643_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_45798.png,포트홀,0.4026,0.5974,0.5974,{1},확실한 포트홀,3,test_images\V2F_HY_1643_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_45798.png
+175,V2F_HY_1648_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_19237.png,포트홀,0.2723,0.7277,0.7277,{1},확실한 포트홀,3,test_images\V2F_HY_1648_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_19237.png
+176,V2F_HY_1651_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_14881.png,정상,0.6388,0.3612,0.6388,{0},확실한 정상,0,test_images\V2F_HY_1651_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_14881.png
+177,V2F_HY_1666_20201104_083103_N_CH2_Seoul_Sun_Highway_Sunrise_62686.png,포트홀,0.3217,0.6783,0.6783,{1},확실한 포트홀,3,test_images\V2F_HY_1666_20201104_083103_N_CH2_Seoul_Sun_Highway_Sunrise_62686.png
+178,V2F_HY_1680_20201103_165848_E_CH1_Seoul_Sun_Highway_Sunset_54366.png,정상,0.6357,0.3643,0.6357,{0},확실한 정상,0,test_images\V2F_HY_1680_20201103_165848_E_CH1_Seoul_Sun_Highway_Sunset_54366.png
+179,V2F_HY_1682_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_67951.png,정상,0.6776,0.3224,0.6776,{0},확실한 정상,0,test_images\V2F_HY_1682_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_67951.png
+180,V2F_HY_1693_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_60938.png,정상,0.6592,0.3408,0.6592,{0},확실한 정상,0,test_images\V2F_HY_1693_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_60938.png
+181,V2F_HY_1705_20201103_170748_E_CH1_Seoul_Sun_Highway_Sunset_73008.png,정상,0.6100,0.3900,0.6100,{0},확실한 정상,0,test_images\V2F_HY_1705_20201103_170748_E_CH1_Seoul_Sun_Highway_Sunset_73008.png
+182,V2F_HY_1706_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_14127.png,정상,0.6542,0.3458,0.6542,{0},확실한 정상,0,test_images\V2F_HY_1706_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_14127.png
+183,V2F_HY_1708_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_78977.png,포트홀,0.4936,0.5064,0.5064,set(),애매 (포트홀 쪽),2,test_images\V2F_HY_1708_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_78977.png
+184,V2F_HY_1711_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_05001.png,정상,0.5072,0.4928,0.5072,set(),애매 (정상 쪽),1,test_images\V2F_HY_1711_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_05001.png
+185,V2F_HY_1714_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_25893.png,정상,0.6492,0.3508,0.6492,{0},확실한 정상,0,test_images\V2F_HY_1714_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_25893.png
+186,V2F_HY_1718_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_30773.png,포트홀,0.4416,0.5584,0.5584,{1},확실한 포트홀,3,test_images\V2F_HY_1718_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_30773.png
+187,V2F_HY_1755_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_95822.png,정상,0.6345,0.3655,0.6345,{0},확실한 정상,0,test_images\V2F_HY_1755_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_95822.png
+188,V2F_HY_1758_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_22663.png,정상,0.6429,0.3571,0.6429,{0},확실한 정상,0,test_images\V2F_HY_1758_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_22663.png
+189,V2F_HY_1771_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_93312.png,정상,0.6131,0.3869,0.6131,{0},확실한 정상,0,test_images\V2F_HY_1771_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_93312.png
+190,V2F_HY_1773_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_29384.png,포트홀,0.4736,0.5264,0.5264,set(),애매 (포트홀 쪽),2,test_images\V2F_HY_1773_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_29384.png
+191,V2F_HY_1790_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_02339.png,정상,0.6743,0.3257,0.6743,{0},확실한 정상,0,test_images\V2F_HY_1790_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_02339.png
+192,V2F_HY_1817_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_16846.png,정상,0.5726,0.4274,0.5726,set(),애매 (정상 쪽),1,test_images\V2F_HY_1817_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_16846.png
+193,V2F_HY_1831_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_08976.png,정상,0.6325,0.3675,0.6325,{0},확실한 정상,0,test_images\V2F_HY_1831_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_08976.png
+194,V2F_HY_1835_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_84723.png,정상,0.6160,0.3840,0.6160,{0},확실한 정상,0,test_images\V2F_HY_1835_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_84723.png
+195,V2F_HY_1840_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_66773.png,정상,0.5011,0.4989,0.5011,set(),애매 (정상 쪽),1,test_images\V2F_HY_1840_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_66773.png
+196,V2F_HY_1843_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_63360.png,정상,0.6570,0.3430,0.6570,{0},확실한 정상,0,test_images\V2F_HY_1843_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_63360.png
+197,V2F_HY_1843_20201104_082803_E_CH0_Seoul_Sun_Highway_Sunrise_33658.png,정상,0.6522,0.3478,0.6522,{0},확실한 정상,0,test_images\V2F_HY_1843_20201104_082803_E_CH0_Seoul_Sun_Highway_Sunrise_33658.png
+198,V2F_HY_1866_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_48227.png,포트홀,0.4914,0.5086,0.5086,set(),애매 (포트홀 쪽),2,test_images\V2F_HY_1866_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_48227.png
+199,V2F_HY_1877_20201104_082803_E_CH0_Seoul_Sun_Highway_Sunrise_04432.png,정상,0.6700,0.3300,0.6700,{0},확실한 정상,0,test_images\V2F_HY_1877_20201104_082803_E_CH0_Seoul_Sun_Highway_Sunrise_04432.png
+200,V2F_HY_1886_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_90893.png,정상,0.5268,0.4732,0.5268,set(),애매 (정상 쪽),1,test_images\V2F_HY_1886_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_90893.png
+201,V2F_HY_1916_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_80342.png,정상,0.6715,0.3285,0.6715,{0},확실한 정상,0,test_images\V2F_HY_1916_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_80342.png
+202,V2F_HY_1930_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_05557.png,정상,0.5084,0.4916,0.5084,set(),애매 (정상 쪽),1,test_images\V2F_HY_1930_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_05557.png
+203,V2F_HY_1933_20201103_170748_E_CH1_Seoul_Sun_Highway_Sunset_15897.png,정상,0.5863,0.4137,0.5863,set(),애매 (정상 쪽),1,test_images\V2F_HY_1933_20201103_170748_E_CH1_Seoul_Sun_Highway_Sunset_15897.png
+204,V2F_HY_1957_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_05075.png,정상,0.6550,0.3450,0.6550,{0},확실한 정상,0,test_images\V2F_HY_1957_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_05075.png
+205,V2F_HY_1959_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_60657.png,포트홀,0.3845,0.6155,0.6155,{1},확실한 포트홀,3,test_images\V2F_HY_1959_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_60657.png
+206,V2F_HY_1965_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_68804.png,포트홀,0.4851,0.5149,0.5149,set(),애매 (포트홀 쪽),2,test_images\V2F_HY_1965_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_68804.png
+207,V2F_HY_1968_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_63669.png,정상,0.6463,0.3537,0.6463,{0},확실한 정상,0,test_images\V2F_HY_1968_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_63669.png
+208,V2F_HY_1980_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_95340.png,포트홀,0.4290,0.5710,0.5710,{1},확실한 포트홀,3,test_images\V2F_HY_1980_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_95340.png
+209,V2F_HY_1984_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_87019.png,정상,0.5763,0.4237,0.5763,set(),애매 (정상 쪽),1,test_images\V2F_HY_1984_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_87019.png
+210,V2F_HY_1985_20201103_170848_E_CH0_Seoul_Sun_Highway_Sunset_44376.png,정상,0.6065,0.3935,0.6065,{0},확실한 정상,0,test_images\V2F_HY_1985_20201103_170848_E_CH0_Seoul_Sun_Highway_Sunset_44376.png
+211,V2F_HY_1996_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_79754.png,정상,0.6364,0.3636,0.6364,{0},확실한 정상,0,test_images\V2F_HY_1996_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_79754.png
+212,V2F_HY_2010_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_82760.png,정상,0.5776,0.4224,0.5776,set(),애매 (정상 쪽),1,test_images\V2F_HY_2010_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_82760.png
+213,V2F_HY_2020_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_64406.png,정상,0.5935,0.4065,0.5935,set(),애매 (정상 쪽),1,test_images\V2F_HY_2020_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_64406.png
+214,V2F_HY_2022_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_91068.png,정상,0.6728,0.3272,0.6728,{0},확실한 정상,0,test_images\V2F_HY_2022_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_91068.png
+215,V2F_HY_2033_20201103_170048_E_CH0_Seoul_Sun_Highway_Sunset_94596.png,정상,0.6370,0.3630,0.6370,{0},확실한 정상,0,test_images\V2F_HY_2033_20201103_170048_E_CH0_Seoul_Sun_Highway_Sunset_94596.png
+216,V2F_HY_2036_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_15580.png,정상,0.6084,0.3916,0.6084,{0},확실한 정상,0,test_images\V2F_HY_2036_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_15580.png
+217,V2F_HY_2037_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_05721.png,정상,0.6979,0.3021,0.6979,{0},확실한 정상,0,test_images\V2F_HY_2037_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_05721.png
+218,V2F_HY_2080_20201104_083103_N_CH2_Seoul_Sun_Highway_Sunrise_57012.png,포트홀,0.3832,0.6168,0.6168,{1},확실한 포트홀,3,test_images\V2F_HY_2080_20201104_083103_N_CH2_Seoul_Sun_Highway_Sunrise_57012.png
+219,V2F_HY_2083_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_19031.png,정상,0.6660,0.3340,0.6660,{0},확실한 정상,0,test_images\V2F_HY_2083_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_19031.png
+220,V2F_HY_2099_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_57757.png,정상,0.6534,0.3466,0.6534,{0},확실한 정상,0,test_images\V2F_HY_2099_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_57757.png
+221,V2F_HY_2143_20201103_165948_E_CH0_Seoul_Sun_Highway_Sunset_76802.png,포트홀,0.2750,0.7250,0.7250,{1},확실한 포트홀,3,test_images\V2F_HY_2143_20201103_165948_E_CH0_Seoul_Sun_Highway_Sunset_76802.png
+222,V2F_HY_2149_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_23816.png,정상,0.6056,0.3944,0.6056,{0},확실한 정상,0,test_images\V2F_HY_2149_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_23816.png
+223,V2F_HY_2170_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_68328.png,포트홀,0.3937,0.6063,0.6063,{1},확실한 포트홀,3,test_images\V2F_HY_2170_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_68328.png
+224,V2F_HY_2190_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_22045.png,정상,0.6624,0.3376,0.6624,{0},확실한 정상,0,test_images\V2F_HY_2190_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_22045.png
+225,V2F_HY_2199_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_34638.png,정상,0.6002,0.3998,0.6002,set(),애매 (정상 쪽),1,test_images\V2F_HY_2199_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_34638.png
+226,V2F_HY_2204_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_99143.png,정상,0.6014,0.3986,0.6014,set(),애매 (정상 쪽),1,test_images\V2F_HY_2204_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_99143.png
+227,V2F_HY_2209_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_13080.png,정상,0.5751,0.4249,0.5751,set(),애매 (정상 쪽),1,test_images\V2F_HY_2209_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_13080.png
+228,V2F_HY_2211_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_73725.png,포트홀,0.3160,0.6840,0.6840,{1},확실한 포트홀,3,test_images\V2F_HY_2211_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_73725.png
+229,V2F_HY_2216_20201103_165948_E_CH1_Seoul_Sun_Highway_Sunset_45690.png,정상,0.6505,0.3495,0.6505,{0},확실한 정상,0,test_images\V2F_HY_2216_20201103_165948_E_CH1_Seoul_Sun_Highway_Sunset_45690.png
+230,V2F_HY_2225_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_76979.png,정상,0.6850,0.3150,0.6850,{0},확실한 정상,0,test_images\V2F_HY_2225_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_76979.png
+231,V2F_HY_2229_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_68582.png,정상,0.6695,0.3305,0.6695,{0},확실한 정상,0,test_images\V2F_HY_2229_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_68582.png
+232,V2F_HY_2238_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_18040.png,포트홀,0.4905,0.5095,0.5095,set(),애매 (포트홀 쪽),2,test_images\V2F_HY_2238_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_18040.png
+233,V2F_HY_2250_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_30790.png,정상,0.6524,0.3476,0.6524,{0},확실한 정상,0,test_images\V2F_HY_2250_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_30790.png
+234,V2F_HY_2278_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_45580.png,정상,0.6747,0.3253,0.6747,{0},확실한 정상,0,test_images\V2F_HY_2278_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_45580.png
+235,V2F_HY_2285_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_84921.png,정상,0.5663,0.4337,0.5663,set(),애매 (정상 쪽),1,test_images\V2F_HY_2285_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_84921.png
+236,V2F_HY_2290_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_13850.png,포트홀,0.3238,0.6762,0.6762,{1},확실한 포트홀,3,test_images\V2F_HY_2290_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_13850.png
+237,V2F_HY_2291_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_49414.png,정상,0.5792,0.4208,0.5792,set(),애매 (정상 쪽),1,test_images\V2F_HY_2291_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_49414.png
+238,V2F_HY_2303_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_95039.png,정상,0.6721,0.3279,0.6721,{0},확실한 정상,0,test_images\V2F_HY_2303_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_95039.png
+239,V2F_HY_2311_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_68306.png,정상,0.6765,0.3235,0.6765,{0},확실한 정상,0,test_images\V2F_HY_2311_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_68306.png
+240,V2F_HY_2319_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_47954.png,정상,0.7011,0.2989,0.7011,{0},확실한 정상,0,test_images\V2F_HY_2319_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_47954.png
+241,V2F_HY_2324_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_11003.png,정상,0.6800,0.3200,0.6800,{0},확실한 정상,0,test_images\V2F_HY_2324_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_11003.png
+242,V2F_HY_2328_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_29008.png,정상,0.6701,0.3299,0.6701,{0},확실한 정상,0,test_images\V2F_HY_2328_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_29008.png
+243,V2F_HY_2330_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_91658.png,포트홀,0.3577,0.6423,0.6423,{1},확실한 포트홀,3,test_images\V2F_HY_2330_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_91658.png
+244,V2F_HY_2344_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_01712.png,정상,0.6255,0.3745,0.6255,{0},확실한 정상,0,test_images\V2F_HY_2344_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_01712.png
+245,V2F_HY_2346_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_71218.png,정상,0.5769,0.4231,0.5769,set(),애매 (정상 쪽),1,test_images\V2F_HY_2346_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_71218.png
+246,V2F_HY_2347_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_26627.png,포트홀,0.4701,0.5299,0.5299,{1},확실한 포트홀,3,test_images\V2F_HY_2347_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_26627.png
+247,V2F_HY_2348_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_97571.png,정상,0.5337,0.4663,0.5337,set(),애매 (정상 쪽),1,test_images\V2F_HY_2348_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_97571.png
+248,V2F_HY_2351_20201104_082803_E_CH0_Seoul_Sun_Highway_Sunrise_24322.png,정상,0.6755,0.3245,0.6755,{0},확실한 정상,0,test_images\V2F_HY_2351_20201104_082803_E_CH0_Seoul_Sun_Highway_Sunrise_24322.png
+249,V2F_HY_2353_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_02307.png,정상,0.5838,0.4162,0.5838,set(),애매 (정상 쪽),1,test_images\V2F_HY_2353_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_02307.png
+250,V2F_HY_2388_20201103_170748_E_CH1_Seoul_Sun_Highway_Sunset_26837.png,포트홀,0.4742,0.5258,0.5258,set(),애매 (포트홀 쪽),2,test_images\V2F_HY_2388_20201103_170748_E_CH1_Seoul_Sun_Highway_Sunset_26837.png
+251,V2F_HY_2392_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_21939.png,정상,0.5442,0.4558,0.5442,set(),애매 (정상 쪽),1,test_images\V2F_HY_2392_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_21939.png
+252,V2F_HY_2400_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_88340.png,정상,0.6002,0.3998,0.6002,set(),애매 (정상 쪽),1,test_images\V2F_HY_2400_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_88340.png
+253,V2F_HY_2416_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_35636.png,정상,0.6357,0.3643,0.6357,{0},확실한 정상,0,test_images\V2F_HY_2416_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_35636.png
+254,V2F_HY_2419_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_96630.png,정상,0.5955,0.4045,0.5955,set(),애매 (정상 쪽),1,test_images\V2F_HY_2419_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_96630.png
+255,V2F_HY_2424_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_57796.png,정상,0.6384,0.3616,0.6384,{0},확실한 정상,0,test_images\V2F_HY_2424_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_57796.png
+256,V2F_HY_2434_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_86930.png,정상,0.6700,0.3300,0.6700,{0},확실한 정상,0,test_images\V2F_HY_2434_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_86930.png
+257,V2F_HY_2440_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_74966.png,정상,0.6774,0.3226,0.6774,{0},확실한 정상,0,test_images\V2F_HY_2440_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_74966.png
+258,V2F_HY_2452_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_59004.png,정상,0.6404,0.3596,0.6404,{0},확실한 정상,0,test_images\V2F_HY_2452_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_59004.png
+259,V2F_HY_2455_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_12477.png,정상,0.5020,0.4980,0.5020,set(),애매 (정상 쪽),1,test_images\V2F_HY_2455_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_12477.png
+260,V2F_HY_2466_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_67584.png,정상,0.6265,0.3735,0.6265,{0},확실한 정상,0,test_images\V2F_HY_2466_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_67584.png
+261,V2F_HY_2469_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_11301.png,정상,0.6135,0.3865,0.6135,{0},확실한 정상,0,test_images\V2F_HY_2469_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_11301.png
+262,V2F_HY_2472_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_19544.png,포트홀,0.3975,0.6025,0.6025,{1},확실한 포트홀,3,test_images\V2F_HY_2472_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_19544.png
+263,V2F_HY_2483_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_32869.png,정상,0.6243,0.3757,0.6243,{0},확실한 정상,0,test_images\V2F_HY_2483_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_32869.png
+264,V2F_HY_2484_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_48771.png,정상,0.6741,0.3259,0.6741,{0},확실한 정상,0,test_images\V2F_HY_2484_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_48771.png
+265,V2F_HY_2497_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_59226.png,정상,0.5864,0.4136,0.5864,set(),애매 (정상 쪽),1,test_images\V2F_HY_2497_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_59226.png
+266,V2F_HY_2498_20201104_083003_E_CH0_Seoul_Sun_Highway_Sunrise_16158.png,포트홀,0.2804,0.7196,0.7196,{1},확실한 포트홀,3,test_images\V2F_HY_2498_20201104_083003_E_CH0_Seoul_Sun_Highway_Sunrise_16158.png
+267,V2F_HY_2502_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_88649.png,정상,0.6201,0.3799,0.6201,{0},확실한 정상,0,test_images\V2F_HY_2502_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_88649.png
+268,V2F_HY_2506_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_16836.png,정상,0.6070,0.3930,0.6070,{0},확실한 정상,0,test_images\V2F_HY_2506_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_16836.png
+269,V2F_HY_2519_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_51136.png,정상,0.6871,0.3129,0.6871,{0},확실한 정상,0,test_images\V2F_HY_2519_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_51136.png
+270,V2F_HY_2535_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_87974.png,정상,0.6465,0.3535,0.6465,{0},확실한 정상,0,test_images\V2F_HY_2535_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_87974.png
+271,V2F_HY_2535_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_90123.png,정상,0.6609,0.3391,0.6609,{0},확실한 정상,0,test_images\V2F_HY_2535_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_90123.png
+272,V2F_HY_2552_20201104_083103_E_CH0_Seoul_Sun_Highway_Sunrise_52624.png,정상,0.6537,0.3463,0.6537,{0},확실한 정상,0,test_images\V2F_HY_2552_20201104_083103_E_CH0_Seoul_Sun_Highway_Sunrise_52624.png
+273,V2F_HY_2557_20201104_082803_E_CH1_Seoul_Sun_Highway_Sunrise_80088.png,정상,0.5989,0.4011,0.5989,set(),애매 (정상 쪽),1,test_images\V2F_HY_2557_20201104_082803_E_CH1_Seoul_Sun_Highway_Sunrise_80088.png
+274,V2F_HY_2559_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_02324.png,정상,0.6676,0.3324,0.6676,{0},확실한 정상,0,test_images\V2F_HY_2559_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_02324.png
+275,V2F_HY_2571_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_66961.png,포트홀,0.4114,0.5886,0.5886,{1},확실한 포트홀,3,test_images\V2F_HY_2571_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_66961.png
+276,V2F_HY_2572_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_03624.png,정상,0.6249,0.3751,0.6249,{0},확실한 정상,0,test_images\V2F_HY_2572_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_03624.png
+277,V2F_HY_2575_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_51004.png,정상,0.5688,0.4312,0.5688,set(),애매 (정상 쪽),1,test_images\V2F_HY_2575_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_51004.png
+278,V2F_HY_2588_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_10921.png,정상,0.5387,0.4613,0.5387,set(),애매 (정상 쪽),1,test_images\V2F_HY_2588_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_10921.png
+279,V2F_HY_2610_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_19008.png,정상,0.6133,0.3867,0.6133,{0},확실한 정상,0,test_images\V2F_HY_2610_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_19008.png
+280,V2F_HY_2655_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_56714.png,정상,0.6877,0.3123,0.6877,{0},확실한 정상,0,test_images\V2F_HY_2655_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_56714.png
+281,V2F_HY_2664_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_42194.png,포트홀,0.4693,0.5307,0.5307,{1},확실한 포트홀,3,test_images\V2F_HY_2664_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_42194.png
+282,V2F_HY_2671_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_88686.png,정상,0.5859,0.4141,0.5859,set(),애매 (정상 쪽),1,test_images\V2F_HY_2671_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_88686.png
+283,V2F_HY_2684_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_71685.png,정상,0.6323,0.3677,0.6323,{0},확실한 정상,0,test_images\V2F_HY_2684_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_71685.png
+284,V2F_HY_2685_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_72754.png,정상,0.5834,0.4166,0.5834,set(),애매 (정상 쪽),1,test_images\V2F_HY_2685_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_72754.png
+285,V2F_HY_2687_20201103_165848_E_CH1_Seoul_Sun_Highway_Sunset_04126.png,포트홀,0.3423,0.6577,0.6577,{1},확실한 포트홀,3,test_images\V2F_HY_2687_20201103_165848_E_CH1_Seoul_Sun_Highway_Sunset_04126.png
+286,V2F_HY_2688_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_32587.png,정상,0.6697,0.3303,0.6697,{0},확실한 정상,0,test_images\V2F_HY_2688_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_32587.png
+287,V2F_HY_2694_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_11077.png,정상,0.6798,0.3202,0.6798,{0},확실한 정상,0,test_images\V2F_HY_2694_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_11077.png
+288,V2F_HY_2696_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_99712.png,포트홀,0.2767,0.7233,0.7233,{1},확실한 포트홀,3,test_images\V2F_HY_2696_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_99712.png
+289,V2F_HY_2703_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_24785.png,정상,0.6898,0.3102,0.6898,{0},확실한 정상,0,test_images\V2F_HY_2703_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_24785.png
+290,V2F_HY_2703_20201104_083003_E_CH0_Seoul_Sun_Highway_Sunrise_70257.png,포트홀,0.3205,0.6795,0.6795,{1},확실한 포트홀,3,test_images\V2F_HY_2703_20201104_083003_E_CH0_Seoul_Sun_Highway_Sunrise_70257.png
+291,V2F_HY_2705_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_36922.png,정상,0.6812,0.3188,0.6812,{0},확실한 정상,0,test_images\V2F_HY_2705_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_36922.png
+292,V2F_HY_2709_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_14378.png,포트홀,0.4912,0.5088,0.5088,set(),애매 (포트홀 쪽),2,test_images\V2F_HY_2709_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_14378.png
+293,V2F_HY_2723_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_42204.png,정상,0.5555,0.4445,0.5555,set(),애매 (정상 쪽),1,test_images\V2F_HY_2723_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_42204.png
+294,V2F_HY_2726_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_20563.png,포트홀,0.3533,0.6467,0.6467,{1},확실한 포트홀,3,test_images\V2F_HY_2726_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_20563.png
+295,V2F_HY_2727_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_72246.png,정상,0.6322,0.3678,0.6322,{0},확실한 정상,0,test_images\V2F_HY_2727_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_72246.png
+296,V2F_HY_2745_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_72660.png,정상,0.5297,0.4703,0.5297,set(),애매 (정상 쪽),1,test_images\V2F_HY_2745_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_72660.png
+297,V2F_HY_2750_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_95391.png,정상,0.7052,0.2948,0.7052,{0},확실한 정상,0,test_images\V2F_HY_2750_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_95391.png
+298,V2F_HY_2753_20201104_082803_E_CH1_Seoul_Sun_Highway_Sunrise_13158.png,정상,0.5881,0.4119,0.5881,set(),애매 (정상 쪽),1,test_images\V2F_HY_2753_20201104_082803_E_CH1_Seoul_Sun_Highway_Sunrise_13158.png
+299,V2F_HY_2770_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_96061.png,정상,0.6114,0.3886,0.6114,{0},확실한 정상,0,test_images\V2F_HY_2770_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_96061.png
+300,V2F_HY_2783_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_10166.png,정상,0.6181,0.3819,0.6181,{0},확실한 정상,0,test_images\V2F_HY_2783_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_10166.png
+301,V2F_HY_2798_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_79980.png,정상,0.6210,0.3790,0.6210,{0},확실한 정상,0,test_images\V2F_HY_2798_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_79980.png
+302,V2F_HY_2809_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_77278.png,포트홀,0.3635,0.6365,0.6365,{1},확실한 포트홀,3,test_images\V2F_HY_2809_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_77278.png
+303,V2F_HY_2813_20201104_083003_E_CH0_Seoul_Sun_Highway_Sunrise_22801.png,포트홀,0.3506,0.6494,0.6494,{1},확실한 포트홀,3,test_images\V2F_HY_2813_20201104_083003_E_CH0_Seoul_Sun_Highway_Sunrise_22801.png
+304,V2F_HY_2863_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_59221.png,포트홀,0.4764,0.5236,0.5236,set(),애매 (포트홀 쪽),2,test_images\V2F_HY_2863_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_59221.png
+305,V2F_HY_2867_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_04055.png,정상,0.6369,0.3631,0.6369,{0},확실한 정상,0,test_images\V2F_HY_2867_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_04055.png
+306,V2F_HY_2873_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_27688.png,정상,0.6797,0.3203,0.6797,{0},확실한 정상,0,test_images\V2F_HY_2873_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_27688.png
+307,V2F_HY_2883_20201103_170348_E_CH1_Seoul_Sun_Highway_Sunset_00123.png,포트홀,0.3353,0.6647,0.6647,{1},확실한 포트홀,3,test_images\V2F_HY_2883_20201103_170348_E_CH1_Seoul_Sun_Highway_Sunset_00123.png
+308,V2F_HY_2890_20201103_170748_E_CH1_Seoul_Sun_Highway_Sunset_85143.png,정상,0.5446,0.4554,0.5446,set(),애매 (정상 쪽),1,test_images\V2F_HY_2890_20201103_170748_E_CH1_Seoul_Sun_Highway_Sunset_85143.png
+309,V2F_HY_2900_20201103_170748_E_CH1_Seoul_Sun_Highway_Sunset_37937.png,정상,0.5157,0.4843,0.5157,set(),애매 (정상 쪽),1,test_images\V2F_HY_2900_20201103_170748_E_CH1_Seoul_Sun_Highway_Sunset_37937.png
+310,V2F_HY_2904_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_14473.png,정상,0.6206,0.3794,0.6206,{0},확실한 정상,0,test_images\V2F_HY_2904_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_14473.png
+311,V2F_HY_2905_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_97636.png,정상,0.6388,0.3612,0.6388,{0},확실한 정상,0,test_images\V2F_HY_2905_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_97636.png
+312,V2F_HY_2909_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_27289.png,정상,0.6352,0.3648,0.6352,{0},확실한 정상,0,test_images\V2F_HY_2909_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_27289.png
+313,V2F_HY_2914_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_21516.png,포트홀,0.3478,0.6522,0.6522,{1},확실한 포트홀,3,test_images\V2F_HY_2914_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_21516.png
+314,V2F_HY_2919_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_01893.png,정상,0.5975,0.4025,0.5975,set(),애매 (정상 쪽),1,test_images\V2F_HY_2919_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_01893.png
+315,V2F_HY_2928_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_10321.png,정상,0.5178,0.4822,0.5178,set(),애매 (정상 쪽),1,test_images\V2F_HY_2928_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_10321.png
+316,V2F_HY_2930_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_56655.png,정상,0.6803,0.3197,0.6803,{0},확실한 정상,0,test_images\V2F_HY_2930_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_56655.png
+317,V2F_HY_2933_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_65439.png,정상,0.5673,0.4327,0.5673,set(),애매 (정상 쪽),1,test_images\V2F_HY_2933_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_65439.png
+318,V2F_HY_2950_20201103_170848_E_CH0_Seoul_Sun_Highway_Sunset_85238.png,정상,0.6100,0.3900,0.6100,{0},확실한 정상,0,test_images\V2F_HY_2950_20201103_170848_E_CH0_Seoul_Sun_Highway_Sunset_85238.png
+319,V2F_HY_2958_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_12944.png,정상,0.5669,0.4331,0.5669,set(),애매 (정상 쪽),1,test_images\V2F_HY_2958_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_12944.png
+320,V2F_HY_2960_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_48319.png,포트홀,0.2914,0.7086,0.7086,{1},확실한 포트홀,3,test_images\V2F_HY_2960_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_48319.png
+321,V2F_HY_2963_20201104_083003_E_CH0_Seoul_Sun_Highway_Sunrise_82623.png,정상,0.5573,0.4427,0.5573,set(),애매 (정상 쪽),1,test_images\V2F_HY_2963_20201104_083003_E_CH0_Seoul_Sun_Highway_Sunrise_82623.png
+322,V2F_HY_2999_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_96483.png,정상,0.6490,0.3510,0.6490,{0},확실한 정상,0,test_images\V2F_HY_2999_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_96483.png
+323,V2F_HY_3001_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_57182.png,정상,0.6518,0.3482,0.6518,{0},확실한 정상,0,test_images\V2F_HY_3001_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_57182.png
+324,V2F_HY_3008_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_28672.png,정상,0.6795,0.3205,0.6795,{0},확실한 정상,0,test_images\V2F_HY_3008_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_28672.png
+325,V2F_HY_3013_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_59583.png,정상,0.6604,0.3396,0.6604,{0},확실한 정상,0,test_images\V2F_HY_3013_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_59583.png
+326,V2F_HY_3014_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_74000.png,포트홀,0.4746,0.5254,0.5254,set(),애매 (포트홀 쪽),2,test_images\V2F_HY_3014_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_74000.png
+327,V2F_HY_3050_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_23086.png,포트홀,0.3622,0.6378,0.6378,{1},확실한 포트홀,3,test_images\V2F_HY_3050_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_23086.png
+328,V2F_HY_3054_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_17268.png,정상,0.5950,0.4050,0.5950,set(),애매 (정상 쪽),1,test_images\V2F_HY_3054_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_17268.png
+329,V2F_HY_3055_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_46049.png,정상,0.5794,0.4206,0.5794,set(),애매 (정상 쪽),1,test_images\V2F_HY_3055_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_46049.png
+330,V2F_HY_3059_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_64739.png,포트홀,0.4056,0.5944,0.5944,{1},확실한 포트홀,3,test_images\V2F_HY_3059_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_64739.png
+331,V2F_HY_3074_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_60189.png,정상,0.6483,0.3517,0.6483,{0},확실한 정상,0,test_images\V2F_HY_3074_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_60189.png
+332,V2F_HY_3078_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_63630.png,정상,0.6448,0.3552,0.6448,{0},확실한 정상,0,test_images\V2F_HY_3078_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_63630.png
+333,V2F_HY_3080_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_02052.png,포트홀,0.3913,0.6087,0.6087,{1},확실한 포트홀,3,test_images\V2F_HY_3080_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_02052.png
+334,V2F_HY_3093_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_83720.png,정상,0.6141,0.3859,0.6141,{0},확실한 정상,0,test_images\V2F_HY_3093_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_83720.png
+335,V2F_HY_3103_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_14569.png,정상,0.6116,0.3884,0.6116,{0},확실한 정상,0,test_images\V2F_HY_3103_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_14569.png
+336,V2F_HY_3104_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_36080.png,포트홀,0.4951,0.5049,0.5049,set(),애매 (포트홀 쪽),2,test_images\V2F_HY_3104_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_36080.png
+337,V2F_HY_3112_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_81994.png,정상,0.6712,0.3288,0.6712,{0},확실한 정상,0,test_images\V2F_HY_3112_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_81994.png
+338,V2F_HY_3127_20201103_165848_E_CH0_Seoul_Sun_Highway_Sunset_21155.png,정상,0.5241,0.4759,0.5241,set(),애매 (정상 쪽),1,test_images\V2F_HY_3127_20201103_165848_E_CH0_Seoul_Sun_Highway_Sunset_21155.png
+339,V2F_HY_3130_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_74591.png,정상,0.6329,0.3671,0.6329,{0},확실한 정상,0,test_images\V2F_HY_3130_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_74591.png
+340,V2F_HY_3130_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_23945.png,정상,0.6242,0.3758,0.6242,{0},확실한 정상,0,test_images\V2F_HY_3130_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_23945.png
+341,V2F_HY_3135_20201104_082803_E_CH0_Seoul_Sun_Highway_Sunrise_46922.png,정상,0.6712,0.3288,0.6712,{0},확실한 정상,0,test_images\V2F_HY_3135_20201104_082803_E_CH0_Seoul_Sun_Highway_Sunrise_46922.png
+342,V2F_HY_3159_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_54660.png,정상,0.5531,0.4469,0.5531,set(),애매 (정상 쪽),1,test_images\V2F_HY_3159_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_54660.png
+343,V2F_HY_3166_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_68112.png,정상,0.6427,0.3573,0.6427,{0},확실한 정상,0,test_images\V2F_HY_3166_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_68112.png
+344,V2F_HY_3174_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_33336.png,포트홀,0.4123,0.5877,0.5877,{1},확실한 포트홀,3,test_images\V2F_HY_3174_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_33336.png
+345,V2F_HY_3183_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_06553.png,정상,0.6817,0.3183,0.6817,{0},확실한 정상,0,test_images\V2F_HY_3183_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_06553.png
+346,V2F_HY_3187_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_65228.png,포트홀,0.4972,0.5028,0.5028,set(),애매 (포트홀 쪽),2,test_images\V2F_HY_3187_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_65228.png
+347,V2F_HY_3202_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_89672.png,포트홀,0.3131,0.6869,0.6869,{1},확실한 포트홀,3,test_images\V2F_HY_3202_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_89672.png
+348,V2F_HY_3203_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_29586.png,정상,0.6500,0.3500,0.6500,{0},확실한 정상,0,test_images\V2F_HY_3203_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_29586.png
+349,V2F_HY_3205_20201103_165748_E_CH1_Seoul_Sun_Highway_Sunset_94021.png,정상,0.6341,0.3659,0.6341,{0},확실한 정상,0,test_images\V2F_HY_3205_20201103_165748_E_CH1_Seoul_Sun_Highway_Sunset_94021.png
+350,V2F_HY_3217_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_37436.png,정상,0.6659,0.3341,0.6659,{0},확실한 정상,0,test_images\V2F_HY_3217_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_37436.png
+351,V2F_HY_3236_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_65171.png,정상,0.6805,0.3195,0.6805,{0},확실한 정상,0,test_images\V2F_HY_3236_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_65171.png
+352,V2F_HY_3241_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_39581.png,정상,0.5997,0.4003,0.5997,set(),애매 (정상 쪽),1,test_images\V2F_HY_3241_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_39581.png
+353,V2F_HY_3255_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_73270.png,정상,0.6594,0.3406,0.6594,{0},확실한 정상,0,test_images\V2F_HY_3255_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_73270.png
+354,V2F_HY_3262_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_86928.png,포트홀,0.3597,0.6403,0.6403,{1},확실한 포트홀,3,test_images\V2F_HY_3262_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_86928.png
+355,V2F_HY_3273_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_74935.png,정상,0.6281,0.3719,0.6281,{0},확실한 정상,0,test_images\V2F_HY_3273_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_74935.png
+356,V2F_HY_3287_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_51915.png,정상,0.6302,0.3698,0.6302,{0},확실한 정상,0,test_images\V2F_HY_3287_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_51915.png
+357,V2F_HY_3290_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_91123.png,정상,0.5012,0.4988,0.5012,set(),애매 (정상 쪽),1,test_images\V2F_HY_3290_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_91123.png
+358,V2F_HY_3302_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_47334.png,포트홀,0.4357,0.5643,0.5643,{1},확실한 포트홀,3,test_images\V2F_HY_3302_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_47334.png
+359,V2F_HY_3304_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_64832.png,포트홀,0.3652,0.6348,0.6348,{1},확실한 포트홀,3,test_images\V2F_HY_3304_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_64832.png
+360,V2F_HY_3306_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_27000.png,포트홀,0.3865,0.6135,0.6135,{1},확실한 포트홀,3,test_images\V2F_HY_3306_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_27000.png
+361,V2F_HY_3318_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_06583.png,정상,0.6654,0.3346,0.6654,{0},확실한 정상,0,test_images\V2F_HY_3318_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_06583.png
+362,V2F_HY_3334_20201104_082803_E_CH1_Seoul_Sun_Highway_Sunrise_18685.png,정상,0.5838,0.4162,0.5838,set(),애매 (정상 쪽),1,test_images\V2F_HY_3334_20201104_082803_E_CH1_Seoul_Sun_Highway_Sunrise_18685.png
+363,V2F_HY_3337_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_51178.png,정상,0.6415,0.3585,0.6415,{0},확실한 정상,0,test_images\V2F_HY_3337_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_51178.png
+364,V2F_HY_3339_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_43910.png,포트홀,0.4127,0.5873,0.5873,{1},확실한 포트홀,3,test_images\V2F_HY_3339_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_43910.png
+365,V2F_HY_3353_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_53413.png,포트홀,0.3888,0.6112,0.6112,{1},확실한 포트홀,3,test_images\V2F_HY_3353_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_53413.png
+366,V2F_HY_3355_20201104_083103_E_CH0_Seoul_Sun_Highway_Sunrise_38929.png,포트홀,0.2935,0.7065,0.7065,{1},확실한 포트홀,3,test_images\V2F_HY_3355_20201104_083103_E_CH0_Seoul_Sun_Highway_Sunrise_38929.png
+367,V2F_HY_3370_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_75203.png,포트홀,0.4455,0.5545,0.5545,{1},확실한 포트홀,3,test_images\V2F_HY_3370_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_75203.png
+368,V2F_HY_3383_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_03311.png,정상,0.7191,0.2809,0.7191,{0},확실한 정상,0,test_images\V2F_HY_3383_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_03311.png
+369,V2F_HY_3384_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_18456.png,정상,0.6305,0.3695,0.6305,{0},확실한 정상,0,test_images\V2F_HY_3384_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_18456.png
+370,V2F_HY_3397_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_26619.png,정상,0.5728,0.4272,0.5728,set(),애매 (정상 쪽),1,test_images\V2F_HY_3397_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_26619.png
+371,V2F_HY_3401_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_98695.png,정상,0.5357,0.4643,0.5357,set(),애매 (정상 쪽),1,test_images\V2F_HY_3401_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_98695.png
+372,V2F_HY_3422_20201104_083503_N_CH0_Seoul_Sun_Highway_Sunrise_94140.png,정상,0.6570,0.3430,0.6570,{0},확실한 정상,0,test_images\V2F_HY_3422_20201104_083503_N_CH0_Seoul_Sun_Highway_Sunrise_94140.png
+373,V2F_HY_3425_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_73424.png,정상,0.5865,0.4135,0.5865,set(),애매 (정상 쪽),1,test_images\V2F_HY_3425_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_73424.png
+374,V2F_HY_3459_20201103_170348_E_CH0_Seoul_Sun_Highway_Sunset_57721.png,정상,0.6090,0.3910,0.6090,{0},확실한 정상,0,test_images\V2F_HY_3459_20201103_170348_E_CH0_Seoul_Sun_Highway_Sunset_57721.png
+375,V2F_HY_3465_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_79359.png,정상,0.6834,0.3166,0.6834,{0},확실한 정상,0,test_images\V2F_HY_3465_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_79359.png
+376,V2F_HY_3467_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_19958.png,정상,0.5541,0.4459,0.5541,set(),애매 (정상 쪽),1,test_images\V2F_HY_3467_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_19958.png
+377,V2F_HY_3476_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_32366.png,포트홀,0.2910,0.7090,0.7090,{1},확실한 포트홀,3,test_images\V2F_HY_3476_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_32366.png
+378,V2F_HY_3477_20201103_170348_E_CH0_Seoul_Sun_Highway_Sunset_99806.png,정상,0.5793,0.4207,0.5793,set(),애매 (정상 쪽),1,test_images\V2F_HY_3477_20201103_170348_E_CH0_Seoul_Sun_Highway_Sunset_99806.png
+379,V2F_HY_3490_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_63380.png,정상,0.6497,0.3503,0.6497,{0},확실한 정상,0,test_images\V2F_HY_3490_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_63380.png
+380,V2F_HY_3494_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_60746.png,정상,0.6430,0.3570,0.6430,{0},확실한 정상,0,test_images\V2F_HY_3494_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_60746.png
+381,V2F_HY_3494_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_27303.png,정상,0.6267,0.3733,0.6267,{0},확실한 정상,0,test_images\V2F_HY_3494_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_27303.png
+382,V2F_HY_3501_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_62769.png,정상,0.6022,0.3978,0.6022,set(),애매 (정상 쪽),1,test_images\V2F_HY_3501_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_62769.png
+383,V2F_HY_3505_20201104_083503_N_CH0_Seoul_Sun_Highway_Sunrise_52668.png,정상,0.7103,0.2897,0.7103,{0},확실한 정상,0,test_images\V2F_HY_3505_20201104_083503_N_CH0_Seoul_Sun_Highway_Sunrise_52668.png
+384,V2F_HY_3510_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_09455.png,정상,0.6254,0.3746,0.6254,{0},확실한 정상,0,test_images\V2F_HY_3510_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_09455.png
+385,V2F_HY_3520_20201104_083403_N_CH2_Seoul_Sun_Highway_Sunrise_58770.png,정상,0.6380,0.3620,0.6380,{0},확실한 정상,0,test_images\V2F_HY_3520_20201104_083403_N_CH2_Seoul_Sun_Highway_Sunrise_58770.png
+386,V2F_HY_3524_20201104_082803_N_CH2_Seoul_Sun_Highway_Sunrise_73928.png,포트홀,0.4136,0.5864,0.5864,{1},확실한 포트홀,3,test_images\V2F_HY_3524_20201104_082803_N_CH2_Seoul_Sun_Highway_Sunrise_73928.png
+387,V2F_HY_3547_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_00279.png,정상,0.6818,0.3182,0.6818,{0},확실한 정상,0,test_images\V2F_HY_3547_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_00279.png
+388,V2F_HY_3549_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_13019.png,정상,0.6699,0.3301,0.6699,{0},확실한 정상,0,test_images\V2F_HY_3549_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_13019.png
+389,V2F_HY_3553_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_89653.png,포트홀,0.3931,0.6069,0.6069,{1},확실한 포트홀,3,test_images\V2F_HY_3553_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_89653.png
+390,V2F_HY_3569_20201104_083103_E_CH0_Seoul_Sun_Highway_Sunrise_92551.png,정상,0.5700,0.4300,0.5700,set(),애매 (정상 쪽),1,test_images\V2F_HY_3569_20201104_083103_E_CH0_Seoul_Sun_Highway_Sunrise_92551.png
+391,V2F_HY_3570_20201103_170348_E_CH1_Seoul_Sun_Highway_Sunset_88714.png,포트홀,0.3073,0.6927,0.6927,{1},확실한 포트홀,3,test_images\V2F_HY_3570_20201103_170348_E_CH1_Seoul_Sun_Highway_Sunset_88714.png
+392,V2F_HY_3577_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_25697.png,정상,0.6045,0.3955,0.6045,{0},확실한 정상,0,test_images\V2F_HY_3577_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_25697.png
+393,V2F_HY_3577_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_42489.png,포트홀,0.4654,0.5346,0.5346,{1},확실한 포트홀,3,test_images\V2F_HY_3577_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_42489.png
+394,V2F_HY_3584_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_86282.png,포트홀,0.3668,0.6332,0.6332,{1},확실한 포트홀,3,test_images\V2F_HY_3584_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_86282.png
+395,V2F_HY_3586_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_02423.png,포트홀,0.4567,0.5433,0.5433,{1},확실한 포트홀,3,test_images\V2F_HY_3586_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_02423.png
+396,V2F_HY_3589_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_62054.png,정상,0.5784,0.4216,0.5784,set(),애매 (정상 쪽),1,test_images\V2F_HY_3589_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_62054.png
+397,V2F_HY_3590_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_05384.png,정상,0.5731,0.4269,0.5731,set(),애매 (정상 쪽),1,test_images\V2F_HY_3590_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_05384.png
+398,V2F_HY_3632_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_77073.png,정상,0.5547,0.4453,0.5547,set(),애매 (정상 쪽),1,test_images\V2F_HY_3632_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_77073.png
+399,V2F_HY_3639_20201103_165948_E_CH1_Seoul_Sun_Highway_Sunset_77345.png,포트홀,0.4269,0.5731,0.5731,{1},확실한 포트홀,3,test_images\V2F_HY_3639_20201103_165948_E_CH1_Seoul_Sun_Highway_Sunset_77345.png
+400,V2F_HY_3658_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_62541.png,정상,0.5142,0.4858,0.5142,set(),애매 (정상 쪽),1,test_images\V2F_HY_3658_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_62541.png
+401,V2F_HY_3663_20201103_170748_E_CH1_Seoul_Sun_Highway_Sunset_42941.png,정상,0.6590,0.3410,0.6590,{0},확실한 정상,0,test_images\V2F_HY_3663_20201103_170748_E_CH1_Seoul_Sun_Highway_Sunset_42941.png
+402,V2F_HY_3670_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_40617.png,포트홀,0.4721,0.5279,0.5279,set(),애매 (포트홀 쪽),2,test_images\V2F_HY_3670_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_40617.png
+403,V2F_HY_3675_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_25823.png,포트홀,0.4871,0.5129,0.5129,set(),애매 (포트홀 쪽),2,test_images\V2F_HY_3675_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_25823.png
+404,V2F_HY_3687_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_45146.png,정상,0.5021,0.4979,0.5021,set(),애매 (정상 쪽),1,test_images\V2F_HY_3687_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_45146.png
+405,V2F_HY_3688_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_13179.png,포트홀,0.3388,0.6612,0.6612,{1},확실한 포트홀,3,test_images\V2F_HY_3688_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_13179.png
+406,V2F_HY_3689_20201103_165948_E_CH1_Seoul_Sun_Highway_Sunset_09848.png,정상,0.6105,0.3895,0.6105,{0},확실한 정상,0,test_images\V2F_HY_3689_20201103_165948_E_CH1_Seoul_Sun_Highway_Sunset_09848.png
+407,V2F_HY_3698_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_58510.png,포트홀,0.4534,0.5466,0.5466,{1},확실한 포트홀,3,test_images\V2F_HY_3698_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_58510.png
+408,V2F_HY_3716_20201104_083103_E_CH1_Seoul_Sun_Highway_Sunrise_16108.png,포트홀,0.4818,0.5182,0.5182,set(),애매 (포트홀 쪽),2,test_images\V2F_HY_3716_20201104_083103_E_CH1_Seoul_Sun_Highway_Sunrise_16108.png
+409,V2F_HY_3717_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_96790.png,정상,0.6815,0.3185,0.6815,{0},확실한 정상,0,test_images\V2F_HY_3717_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_96790.png
+410,V2F_HY_3717_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_13086.png,정상,0.5178,0.4822,0.5178,set(),애매 (정상 쪽),1,test_images\V2F_HY_3717_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_13086.png
+411,V2F_HY_3726_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_71634.png,포트홀,0.3000,0.7000,0.7000,{1},확실한 포트홀,3,test_images\V2F_HY_3726_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_71634.png
+412,V2F_HY_3737_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_96685.png,포트홀,0.4550,0.5450,0.5450,{1},확실한 포트홀,3,test_images\V2F_HY_3737_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_96685.png
+413,V2F_HY_3742_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_20795.png,포트홀,0.4343,0.5657,0.5657,{1},확실한 포트홀,3,test_images\V2F_HY_3742_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_20795.png
+414,V2F_HY_3743_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_04689.png,정상,0.5052,0.4948,0.5052,set(),애매 (정상 쪽),1,test_images\V2F_HY_3743_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_04689.png
+415,V2F_HY_3746_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_21021.png,정상,0.5121,0.4879,0.5121,set(),애매 (정상 쪽),1,test_images\V2F_HY_3746_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_21021.png
+416,V2F_HY_3747_20201103_165748_E_CH1_Seoul_Sun_Highway_Sunset_14543.png,포트홀,0.4831,0.5169,0.5169,set(),애매 (포트홀 쪽),2,test_images\V2F_HY_3747_20201103_165748_E_CH1_Seoul_Sun_Highway_Sunset_14543.png
+417,V2F_HY_3751_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_99131.png,정상,0.6677,0.3323,0.6677,{0},확실한 정상,0,test_images\V2F_HY_3751_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_99131.png
+418,V2F_HY_3763_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_64861.png,정상,0.5711,0.4289,0.5711,set(),애매 (정상 쪽),1,test_images\V2F_HY_3763_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_64861.png
+419,V2F_HY_3772_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_81025.png,정상,0.6833,0.3167,0.6833,{0},확실한 정상,0,test_images\V2F_HY_3772_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_81025.png
+420,V2F_HY_3774_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_07413.png,정상,0.6662,0.3338,0.6662,{0},확실한 정상,0,test_images\V2F_HY_3774_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_07413.png
+421,V2F_HY_3775_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_23982.png,포트홀,0.3455,0.6545,0.6545,{1},확실한 포트홀,3,test_images\V2F_HY_3775_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_23982.png
+422,V2F_HY_3779_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_57811.png,포트홀,0.4220,0.5780,0.5780,{1},확실한 포트홀,3,test_images\V2F_HY_3779_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_57811.png
+423,V2F_HY_3784_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_21238.png,정상,0.5219,0.4781,0.5219,set(),애매 (정상 쪽),1,test_images\V2F_HY_3784_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_21238.png
+424,V2F_HY_3786_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_03089.png,정상,0.5927,0.4073,0.5927,set(),애매 (정상 쪽),1,test_images\V2F_HY_3786_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_03089.png
+425,V2F_HY_3798_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_93630.png,정상,0.6259,0.3741,0.6259,{0},확실한 정상,0,test_images\V2F_HY_3798_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_93630.png
+426,V2F_HY_3810_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_74979.png,포트홀,0.4665,0.5335,0.5335,{1},확실한 포트홀,3,test_images\V2F_HY_3810_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_74979.png
+427,V2F_HY_3817_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_35668.png,정상,0.5857,0.4143,0.5857,set(),애매 (정상 쪽),1,test_images\V2F_HY_3817_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_35668.png
+428,V2F_HY_3823_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_70188.png,포트홀,0.4922,0.5078,0.5078,set(),애매 (포트홀 쪽),2,test_images\V2F_HY_3823_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_70188.png
+429,V2F_HY_3829_20201104_083103_E_CH0_Seoul_Sun_Highway_Sunrise_31453.png,정상,0.6812,0.3188,0.6812,{0},확실한 정상,0,test_images\V2F_HY_3829_20201104_083103_E_CH0_Seoul_Sun_Highway_Sunrise_31453.png
+430,V2F_HY_3840_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_90020.png,정상,0.6195,0.3805,0.6195,{0},확실한 정상,0,test_images\V2F_HY_3840_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_90020.png
+431,V2F_HY_3850_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_46387.png,포트홀,0.4931,0.5069,0.5069,set(),애매 (포트홀 쪽),2,test_images\V2F_HY_3850_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_46387.png
+432,V2F_HY_3860_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_73144.png,포트홀,0.3628,0.6372,0.6372,{1},확실한 포트홀,3,test_images\V2F_HY_3860_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_73144.png
+433,V2F_HY_3871_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_04536.png,포트홀,0.4468,0.5532,0.5532,{1},확실한 포트홀,3,test_images\V2F_HY_3871_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_04536.png
+434,V2F_HY_3879_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_02942.png,정상,0.5933,0.4067,0.5933,set(),애매 (정상 쪽),1,test_images\V2F_HY_3879_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_02942.png
+435,V2F_HY_3914_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_17598.png,정상,0.6776,0.3224,0.6776,{0},확실한 정상,0,test_images\V2F_HY_3914_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_17598.png
+436,V2F_HY_3923_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_26793.png,정상,0.6093,0.3907,0.6093,{0},확실한 정상,0,test_images\V2F_HY_3923_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_26793.png
+437,V2F_HY_3928_20201104_083103_N_CH2_Seoul_Sun_Highway_Sunrise_86410.png,정상,0.5187,0.4813,0.5187,set(),애매 (정상 쪽),1,test_images\V2F_HY_3928_20201104_083103_N_CH2_Seoul_Sun_Highway_Sunrise_86410.png
+438,V2F_HY_3932_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_60980.png,정상,0.5869,0.4131,0.5869,set(),애매 (정상 쪽),1,test_images\V2F_HY_3932_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_60980.png
+439,V2F_HY_3942_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_80173.png,포트홀,0.3878,0.6122,0.6122,{1},확실한 포트홀,3,test_images\V2F_HY_3942_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_80173.png
+440,V2F_HY_3945_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_03398.png,정상,0.6343,0.3657,0.6343,{0},확실한 정상,0,test_images\V2F_HY_3945_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_03398.png
+441,V2F_HY_3965_20201103_170748_E_CH1_Seoul_Sun_Highway_Sunset_00464.png,정상,0.6407,0.3593,0.6407,{0},확실한 정상,0,test_images\V2F_HY_3965_20201103_170748_E_CH1_Seoul_Sun_Highway_Sunset_00464.png
+442,V2F_HY_3988_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_24145.png,정상,0.6675,0.3325,0.6675,{0},확실한 정상,0,test_images\V2F_HY_3988_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_24145.png
+443,V2F_HY_3990_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_19763.png,정상,0.5951,0.4049,0.5951,set(),애매 (정상 쪽),1,test_images\V2F_HY_3990_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_19763.png
+444,V2F_HY_3994_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_02340.png,포트홀,0.4331,0.5669,0.5669,{1},확실한 포트홀,3,test_images\V2F_HY_3994_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_02340.png
+445,V2F_HY_4003_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_95812.png,정상,0.5226,0.4774,0.5226,set(),애매 (정상 쪽),1,test_images\V2F_HY_4003_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_95812.png
+446,V2F_HY_4030_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_76515.png,정상,0.5736,0.4264,0.5736,set(),애매 (정상 쪽),1,test_images\V2F_HY_4030_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_76515.png
+447,V2F_HY_4037_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_22654.png,정상,0.6441,0.3559,0.6441,{0},확실한 정상,0,test_images\V2F_HY_4037_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_22654.png
+448,V2F_HY_4048_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_01248.png,포트홀,0.4016,0.5984,0.5984,{1},확실한 포트홀,3,test_images\V2F_HY_4048_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_01248.png
+449,V2F_HY_4064_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_63729.png,포트홀,0.2735,0.7265,0.7265,{1},확실한 포트홀,3,test_images\V2F_HY_4064_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_63729.png
+450,V2F_HY_4067_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_39522.png,포트홀,0.4401,0.5599,0.5599,{1},확실한 포트홀,3,test_images\V2F_HY_4067_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_39522.png
+451,V2F_HY_4077_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_53151.png,정상,0.5856,0.4144,0.5856,set(),애매 (정상 쪽),1,test_images\V2F_HY_4077_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_53151.png
+452,V2F_HY_4078_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_51500.png,정상,0.6147,0.3853,0.6147,{0},확실한 정상,0,test_images\V2F_HY_4078_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_51500.png
+453,V2F_HY_4081_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_29025.png,정상,0.5452,0.4548,0.5452,set(),애매 (정상 쪽),1,test_images\V2F_HY_4081_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_29025.png
+454,V2F_HY_4091_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_71418.png,정상,0.6788,0.3212,0.6788,{0},확실한 정상,0,test_images\V2F_HY_4091_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_71418.png
+455,V2F_HY_4106_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_57054.png,포트홀,0.4226,0.5774,0.5774,{1},확실한 포트홀,3,test_images\V2F_HY_4106_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_57054.png
+456,V2F_HY_4109_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_34135.png,정상,0.6538,0.3462,0.6538,{0},확실한 정상,0,test_images\V2F_HY_4109_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_34135.png
+457,V2F_HY_4121_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_04860.png,정상,0.6355,0.3645,0.6355,{0},확실한 정상,0,test_images\V2F_HY_4121_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_04860.png
+458,V2F_HY_4126_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_37755.png,포트홀,0.4008,0.5992,0.5992,{1},확실한 포트홀,3,test_images\V2F_HY_4126_20201104_083303_N_CH2_Seoul_Sun_Highway_Sunrise_37755.png
+459,V2F_HY_4135_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_41259.png,정상,0.6680,0.3320,0.6680,{0},확실한 정상,0,test_images\V2F_HY_4135_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_41259.png
+460,V2F_HY_4158_20201104_083103_E_CH1_Seoul_Sun_Highway_Sunrise_93191.png,정상,0.6674,0.3326,0.6674,{0},확실한 정상,0,test_images\V2F_HY_4158_20201104_083103_E_CH1_Seoul_Sun_Highway_Sunrise_93191.png
+461,V2F_HY_4159_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_76127.png,정상,0.6260,0.3740,0.6260,{0},확실한 정상,0,test_images\V2F_HY_4159_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_76127.png
+462,V2F_HY_4172_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_56199.png,정상,0.6086,0.3914,0.6086,{0},확실한 정상,0,test_images\V2F_HY_4172_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_56199.png
+463,V2F_HY_4179_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_04607.png,정상,0.5343,0.4657,0.5343,set(),애매 (정상 쪽),1,test_images\V2F_HY_4179_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_04607.png
+464,V2F_HY_4190_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_03004.png,정상,0.6043,0.3957,0.6043,{0},확실한 정상,0,test_images\V2F_HY_4190_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_03004.png
+465,V2F_HY_4212_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_01433.png,정상,0.5222,0.4778,0.5222,set(),애매 (정상 쪽),1,test_images\V2F_HY_4212_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_01433.png
+466,V2F_HY_4218_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_79426.png,정상,0.6456,0.3544,0.6456,{0},확실한 정상,0,test_images\V2F_HY_4218_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_79426.png
+467,V2F_HY_4233_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_76597.png,정상,0.6093,0.3907,0.6093,{0},확실한 정상,0,test_images\V2F_HY_4233_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_76597.png
+468,V2F_HY_4235_20201103_165848_E_CH1_Seoul_Sun_Highway_Sunset_28826.png,정상,0.5093,0.4907,0.5093,set(),애매 (정상 쪽),1,test_images\V2F_HY_4235_20201103_165848_E_CH1_Seoul_Sun_Highway_Sunset_28826.png
+469,V2F_HY_4245_20201104_083203_E_CH0_Seoul_Sun_Highway_Sunrise_58543.png,정상,0.6115,0.3885,0.6115,{0},확실한 정상,0,test_images\V2F_HY_4245_20201104_083203_E_CH0_Seoul_Sun_Highway_Sunrise_58543.png
+470,V2F_HY_4275_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_35172.png,정상,0.5100,0.4900,0.5100,set(),애매 (정상 쪽),1,test_images\V2F_HY_4275_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_35172.png
+471,V2F_HY_4278_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_17491.png,정상,0.6270,0.3730,0.6270,{0},확실한 정상,0,test_images\V2F_HY_4278_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_17491.png
+472,V2F_HY_4329_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_36865.png,정상,0.6879,0.3121,0.6879,{0},확실한 정상,0,test_images\V2F_HY_4329_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_36865.png
+473,V2F_HY_4332_20201103_170348_E_CH0_Seoul_Sun_Highway_Sunset_78945.png,포트홀,0.2771,0.7229,0.7229,{1},확실한 포트홀,3,test_images\V2F_HY_4332_20201103_170348_E_CH0_Seoul_Sun_Highway_Sunset_78945.png
+474,V2F_HY_4337_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_33533.png,정상,0.5184,0.4816,0.5184,set(),애매 (정상 쪽),1,test_images\V2F_HY_4337_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_33533.png
+475,V2F_HY_4367_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_88152.png,정상,0.6929,0.3071,0.6929,{0},확실한 정상,0,test_images\V2F_HY_4367_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_88152.png
+476,V2F_HY_4367_20201104_082803_E_CH1_Seoul_Sun_Highway_Sunrise_86683.png,정상,0.6179,0.3821,0.6179,{0},확실한 정상,0,test_images\V2F_HY_4367_20201104_082803_E_CH1_Seoul_Sun_Highway_Sunrise_86683.png
+477,V2F_HY_4368_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_63790.png,정상,0.5773,0.4227,0.5773,set(),애매 (정상 쪽),1,test_images\V2F_HY_4368_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_63790.png
+478,V2F_HY_4374_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_42384.png,포트홀,0.4963,0.5037,0.5037,set(),애매 (포트홀 쪽),2,test_images\V2F_HY_4374_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_42384.png
+479,V2F_HY_4386_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_76218.png,정상,0.6297,0.3703,0.6297,{0},확실한 정상,0,test_images\V2F_HY_4386_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_76218.png
+480,V2F_HY_4397_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_92145.png,정상,0.6576,0.3424,0.6576,{0},확실한 정상,0,test_images\V2F_HY_4397_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_92145.png
+481,V2F_HY_4398_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_33688.png,정상,0.6770,0.3230,0.6770,{0},확실한 정상,0,test_images\V2F_HY_4398_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_33688.png
+482,V2F_HY_4398_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_38137.png,정상,0.5537,0.4463,0.5537,set(),애매 (정상 쪽),1,test_images\V2F_HY_4398_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_38137.png
+483,V2F_HY_4412_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_11345.png,포트홀,0.4834,0.5166,0.5166,set(),애매 (포트홀 쪽),2,test_images\V2F_HY_4412_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_11345.png
+484,V2F_HY_4441_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_86317.png,정상,0.6050,0.3950,0.6050,{0},확실한 정상,0,test_images\V2F_HY_4441_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_86317.png
+485,V2F_HY_4443_20201103_170848_E_CH1_Seoul_Sun_Highway_Sunset_41912.png,정상,0.5375,0.4625,0.5375,set(),애매 (정상 쪽),1,test_images\V2F_HY_4443_20201103_170848_E_CH1_Seoul_Sun_Highway_Sunset_41912.png
+486,V2F_HY_4445_20201104_083403_N_CH2_Seoul_Sun_Highway_Sunrise_40807.png,정상,0.5829,0.4171,0.5829,set(),애매 (정상 쪽),1,test_images\V2F_HY_4445_20201104_083403_N_CH2_Seoul_Sun_Highway_Sunrise_40807.png
+487,V2F_HY_4450_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_08861.png,정상,0.6256,0.3744,0.6256,{0},확실한 정상,0,test_images\V2F_HY_4450_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_08861.png
+488,V2F_HY_4452_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_93847.png,정상,0.5409,0.4591,0.5409,set(),애매 (정상 쪽),1,test_images\V2F_HY_4452_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_93847.png
+489,V2F_HY_4474_20201104_082803_E_CH1_Seoul_Sun_Highway_Sunrise_35511.png,정상,0.5980,0.4020,0.5980,set(),애매 (정상 쪽),1,test_images\V2F_HY_4474_20201104_082803_E_CH1_Seoul_Sun_Highway_Sunrise_35511.png
+490,V2F_HY_4493_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_77492.png,정상,0.5577,0.4423,0.5577,set(),애매 (정상 쪽),1,test_images\V2F_HY_4493_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_77492.png
+491,V2F_HY_4497_20201103_170348_N_CH2_Seoul_Sun_Highway_Sunset_87266.png,포트홀,0.3698,0.6302,0.6302,{1},확실한 포트홀,3,test_images\V2F_HY_4497_20201103_170348_N_CH2_Seoul_Sun_Highway_Sunset_87266.png
+492,V2F_HY_4505_20201103_170848_E_CH0_Seoul_Sun_Highway_Sunset_23571.png,정상,0.5739,0.4261,0.5739,set(),애매 (정상 쪽),1,test_images\V2F_HY_4505_20201103_170848_E_CH0_Seoul_Sun_Highway_Sunset_23571.png
+493,V2F_HY_4508_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_20518.png,정상,0.6542,0.3458,0.6542,{0},확실한 정상,0,test_images\V2F_HY_4508_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_20518.png
+494,V2F_HY_4513_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_92974.png,정상,0.6312,0.3688,0.6312,{0},확실한 정상,0,test_images\V2F_HY_4513_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_92974.png
+495,V2F_HY_4518_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_61949.png,정상,0.6110,0.3890,0.6110,{0},확실한 정상,0,test_images\V2F_HY_4518_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_61949.png
+496,V2F_HY_4535_20201103_170748_E_CH0_Seoul_Sun_Highway_Sunset_28937.png,정상,0.5907,0.4093,0.5907,set(),애매 (정상 쪽),1,test_images\V2F_HY_4535_20201103_170748_E_CH0_Seoul_Sun_Highway_Sunset_28937.png
+497,V2F_HY_4550_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_05349.png,포트홀,0.2993,0.7007,0.7007,{1},확실한 포트홀,3,test_images\V2F_HY_4550_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_05349.png
+498,V2F_HY_4573_20201104_083503_N_CH0_Seoul_Sun_Highway_Sunrise_46924.png,정상,0.5969,0.4031,0.5969,set(),애매 (정상 쪽),1,test_images\V2F_HY_4573_20201104_083503_N_CH0_Seoul_Sun_Highway_Sunrise_46924.png
+499,V2F_HY_4575_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_72113.png,정상,0.6354,0.3646,0.6354,{0},확실한 정상,0,test_images\V2F_HY_4575_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_72113.png
+500,V2F_HY_4591_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_39514.png,정상,0.6446,0.3554,0.6446,{0},확실한 정상,0,test_images\V2F_HY_4591_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_39514.png
+501,V2F_HY_4593_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_77426.png,정상,0.6206,0.3794,0.6206,{0},확실한 정상,0,test_images\V2F_HY_4593_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_77426.png
+502,V2F_HY_4599_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_21292.png,정상,0.6007,0.3993,0.6007,set(),애매 (정상 쪽),1,test_images\V2F_HY_4599_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_21292.png
+503,V2F_HY_4616_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_69903.png,정상,0.5787,0.4213,0.5787,set(),애매 (정상 쪽),1,test_images\V2F_HY_4616_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_69903.png
+504,V2F_HY_4627_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_74059.png,정상,0.5495,0.4505,0.5495,set(),애매 (정상 쪽),1,test_images\V2F_HY_4627_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_74059.png
+505,V2F_HY_4632_20201104_083203_E_CH0_Seoul_Sun_Highway_Sunrise_09047.png,정상,0.6745,0.3255,0.6745,{0},확실한 정상,0,test_images\V2F_HY_4632_20201104_083203_E_CH0_Seoul_Sun_Highway_Sunrise_09047.png
+506,V2F_HY_4640_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_52872.png,정상,0.5031,0.4969,0.5031,set(),애매 (정상 쪽),1,test_images\V2F_HY_4640_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_52872.png
+507,V2F_HY_4655_20201104_082803_E_CH1_Seoul_Sun_Highway_Sunrise_20245.png,정상,0.6092,0.3908,0.6092,{0},확실한 정상,0,test_images\V2F_HY_4655_20201104_082803_E_CH1_Seoul_Sun_Highway_Sunrise_20245.png
+508,V2F_HY_4660_20201104_082903_N_CH2_Seoul_Sun_Highway_Sunrise_01211.png,포트홀,0.3322,0.6678,0.6678,{1},확실한 포트홀,3,test_images\V2F_HY_4660_20201104_082903_N_CH2_Seoul_Sun_Highway_Sunrise_01211.png
+509,V2F_HY_4662_20201104_082803_E_CH1_Seoul_Sun_Highway_Sunrise_40127.png,정상,0.6303,0.3697,0.6303,{0},확실한 정상,0,test_images\V2F_HY_4662_20201104_082803_E_CH1_Seoul_Sun_Highway_Sunrise_40127.png
+510,V2F_HY_4666_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_60298.png,정상,0.6169,0.3831,0.6169,{0},확실한 정상,0,test_images\V2F_HY_4666_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_60298.png
+511,V2F_HY_4675_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_61606.png,정상,0.6309,0.3691,0.6309,{0},확실한 정상,0,test_images\V2F_HY_4675_20201104_083503_E_CH0_Seoul_Sun_Highway_Sunrise_61606.png
+512,V2F_HY_4690_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_51905.png,정상,0.5314,0.4686,0.5314,set(),애매 (정상 쪽),1,test_images\V2F_HY_4690_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_51905.png
+513,V2F_HY_4691_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_73491.png,정상,0.5153,0.4847,0.5153,set(),애매 (정상 쪽),1,test_images\V2F_HY_4691_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_73491.png
+514,V2F_HY_4697_20201104_083503_N_CH2_Seoul_Sun_Highway_Sunrise_73602.png,포트홀,0.3831,0.6169,0.6169,{1},확실한 포트홀,3,test_images\V2F_HY_4697_20201104_083503_N_CH2_Seoul_Sun_Highway_Sunrise_73602.png
+515,V2F_HY_4712_20201104_082803_E_CH0_Seoul_Sun_Highway_Sunrise_91536.png,정상,0.6720,0.3280,0.6720,{0},확실한 정상,0,test_images\V2F_HY_4712_20201104_082803_E_CH0_Seoul_Sun_Highway_Sunrise_91536.png
+516,V2F_HY_4714_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_59391.png,정상,0.6469,0.3531,0.6469,{0},확실한 정상,0,test_images\V2F_HY_4714_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_59391.png
+517,V2F_HY_4722_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_59437.png,정상,0.6437,0.3563,0.6437,{0},확실한 정상,0,test_images\V2F_HY_4722_20201104_082903_E_CH1_Seoul_Sun_Highway_Sunrise_59437.png
+518,V2F_HY_4726_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_63199.png,포트홀,0.4720,0.5280,0.5280,set(),애매 (포트홀 쪽),2,test_images\V2F_HY_4726_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_63199.png
+519,V2F_HY_4728_20201104_083503_N_CH2_Seoul_Sun_Highway_Sunrise_67734.png,포트홀,0.5000,0.5000,0.5000,set(),애매 (포트홀 쪽),2,test_images\V2F_HY_4728_20201104_083503_N_CH2_Seoul_Sun_Highway_Sunrise_67734.png
+520,V2F_HY_4740_20201103_165948_E_CH1_Seoul_Sun_Highway_Sunset_96706.png,포트홀,0.4263,0.5737,0.5737,{1},확실한 포트홀,3,test_images\V2F_HY_4740_20201103_165948_E_CH1_Seoul_Sun_Highway_Sunset_96706.png
+521,V2F_HY_4750_20201104_083103_E_CH1_Seoul_Sun_Highway_Sunrise_80947.png,포트홀,0.4214,0.5786,0.5786,{1},확실한 포트홀,3,test_images\V2F_HY_4750_20201104_083103_E_CH1_Seoul_Sun_Highway_Sunrise_80947.png
+522,V2F_HY_4759_20201104_082803_E_CH0_Seoul_Sun_Highway_Sunrise_69517.png,정상,0.6005,0.3995,0.6005,set(),애매 (정상 쪽),1,test_images\V2F_HY_4759_20201104_082803_E_CH0_Seoul_Sun_Highway_Sunrise_69517.png
+523,V2F_HY_4773_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_92757.png,정상,0.6103,0.3897,0.6103,{0},확실한 정상,0,test_images\V2F_HY_4773_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_92757.png
+524,V2F_HY_4789_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_92125.png,정상,0.6367,0.3633,0.6367,{0},확실한 정상,0,test_images\V2F_HY_4789_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_92125.png
+525,V2F_HY_4790_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_33287.png,포트홀,0.4047,0.5953,0.5953,{1},확실한 포트홀,3,test_images\V2F_HY_4790_20201104_083303_E_CH1_Seoul_Sun_Highway_Sunrise_33287.png
+526,V2F_HY_4792_20201104_083103_E_CH1_Seoul_Sun_Highway_Sunrise_50557.png,포트홀,0.4833,0.5167,0.5167,set(),애매 (포트홀 쪽),2,test_images\V2F_HY_4792_20201104_083103_E_CH1_Seoul_Sun_Highway_Sunrise_50557.png
+527,V2F_HY_4803_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_83785.png,포트홀,0.4888,0.5112,0.5112,set(),애매 (포트홀 쪽),2,test_images\V2F_HY_4803_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_83785.png
+528,V2F_HY_4837_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_92286.png,정상,0.6481,0.3519,0.6481,{0},확실한 정상,0,test_images\V2F_HY_4837_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_92286.png
+529,V2F_HY_4847_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_49822.png,정상,0.5260,0.4740,0.5260,set(),애매 (정상 쪽),1,test_images\V2F_HY_4847_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_49822.png
+530,V2F_HY_4891_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_71031.png,정상,0.6907,0.3093,0.6907,{0},확실한 정상,0,test_images\V2F_HY_4891_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_71031.png
+531,V2F_HY_4893_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_86156.png,정상,0.5918,0.4082,0.5918,set(),애매 (정상 쪽),1,test_images\V2F_HY_4893_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_86156.png
+532,V2F_HY_4902_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_00901.png,정상,0.6679,0.3321,0.6679,{0},확실한 정상,0,test_images\V2F_HY_4902_20201104_083503_E_CH1_Seoul_Sun_Highway_Sunrise_00901.png
+533,V2F_HY_4906_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_01505.png,정상,0.6582,0.3418,0.6582,{0},확실한 정상,0,test_images\V2F_HY_4906_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_01505.png
+534,V2F_HY_4911_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_34999.png,정상,0.5176,0.4824,0.5176,set(),애매 (정상 쪽),1,test_images\V2F_HY_4911_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_34999.png
+535,V2F_HY_4938_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_09154.png,포트홀,0.3225,0.6775,0.6775,{1},확실한 포트홀,3,test_images\V2F_HY_4938_20201104_083403_E_CH1_Seoul_Sun_Highway_Sunrise_09154.png
+536,V2F_HY_4939_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_93658.png,포트홀,0.3338,0.6662,0.6662,{1},확실한 포트홀,3,test_images\V2F_HY_4939_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_93658.png
+537,V2F_HY_4942_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_24971.png,정상,0.6861,0.3139,0.6861,{0},확실한 정상,0,test_images\V2F_HY_4942_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_24971.png
+538,V2F_HY_4943_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_85358.png,정상,0.6114,0.3886,0.6114,{0},확실한 정상,0,test_images\V2F_HY_4943_20201104_083303_E_CH0_Seoul_Sun_Highway_Sunrise_85358.png
+539,V2F_HY_4953_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_27119.png,정상,0.6771,0.3229,0.6771,{0},확실한 정상,0,test_images\V2F_HY_4953_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_27119.png
+540,V2F_HY_4957_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_24162.png,정상,0.6578,0.3422,0.6578,{0},확실한 정상,0,test_images\V2F_HY_4957_20201104_082903_E_CH0_Seoul_Sun_Highway_Sunrise_24162.png
+541,V2F_HY_4969_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_45060.png,정상,0.5784,0.4216,0.5784,set(),애매 (정상 쪽),1,test_images\V2F_HY_4969_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_45060.png
+542,V2F_HY_4973_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_55140.png,정상,0.5259,0.4741,0.5259,set(),애매 (정상 쪽),1,test_images\V2F_HY_4973_20201104_083403_E_CH0_Seoul_Sun_Highway_Sunrise_55140.png
+543,V2F_HY_4976_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_93239.png,정상,0.6715,0.3285,0.6715,{0},확실한 정상,0,test_images\V2F_HY_4976_20201103_171448_E_CH0_Seoul_Sun_Highway_Sunset_93239.png
+544,V2F_HY_4981_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_75271.png,정상,0.6487,0.3513,0.6487,{0},확실한 정상,0,test_images\V2F_HY_4981_20201103_171448_E_CH1_Seoul_Sun_Highway_Sunset_75271.png
